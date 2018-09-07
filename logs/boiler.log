@@ -1,0 +1,30 @@
+2018-09-08 01:42:09,046 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/0 > root/0.txt
+2018-09-08 01:42:09,761 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/1 > root/1.txt
+2018-09-08 01:42:10,406 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/2 > root/2.txt
+2018-09-08 01:42:10,785 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/3 > root/3.txt
+2018-09-08 01:42:11,021 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/4 > root/4.txt
+2018-09-08 01:43:27,916 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/0 > root/0.txt
+2018-09-08 01:43:28,056 - neutron.boiler - DEBUG - CODE: 1
+2018-09-08 01:43:28,448 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/1 > root/1.txt
+2018-09-08 01:43:28,575 - neutron.boiler - DEBUG - CODE: 1
+2018-09-08 01:43:28,838 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/2 > root/2.txt
+2018-09-08 01:43:28,979 - neutron.boiler - DEBUG - CODE: 1
+2018-09-08 01:43:29,239 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/3 > root/3.txt
+2018-09-08 01:43:29,415 - neutron.boiler - DEBUG - CODE: 1
+2018-09-08 01:43:29,551 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/4 > root/4.txt
+2018-09-08 01:43:29,724 - neutron.boiler - DEBUG - CODE: 1
+2018-09-08 01:46:06,305 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/0 > root/0.txt
+2018-09-08 01:46:06,852 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/1 > root/1.txt
+2018-09-08 01:46:07,321 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/2 > root/2.txt
+2018-09-08 01:46:08,523 - neutron.boiler - DEBUG - CODE: 0
+2018-09-08 01:46:08,748 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/3 > root/3.txt
+2018-09-08 01:46:09,577 - neutron.boiler - DEBUG - CODE: 0
+2018-09-08 01:46:10,051 - neutron.boiler - DEBUG - CODE: 0
+2018-09-08 01:46:10,246 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/4 > root/4.txt
+2018-09-08 01:46:11,126 - neutron.boiler - DEBUG - CODE: 0
+2018-09-08 01:46:11,169 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/5 > root/5.txt
+2018-09-08 01:46:11,693 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/6 > root/6.txt
+2018-09-08 01:46:12,654 - neutron.boiler - DEBUG - CODE: 0
+2018-09-08 01:46:12,932 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/7 > root/7.txt
+2018-09-08 01:46:13,119 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/8 > root/8.txt
+2018-09-08 01:46:13,772 - neutron.boiler - DEBUG - CMD: java -jar core/boiler.jar html/9 > root/9.txt

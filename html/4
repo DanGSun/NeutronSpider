@@ -1,0 +1,1826 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Rambler&amp;Co - карьера в хорошей компании, вакансии</title>
+    <meta name="keywords" lang="ru" content="Вакансии работа Rambler&amp;Co Рамблер Афиша Суп SUP RNS Rambler News Championat ЧемпионатService QUTO сотрудники наем набор">
+    <meta name="description" lang="ru" content="Вакансии компании Rambler&amp;Co. Работайте в хорошей компании.">
+    <base href="//rambler-co.ru/"><meta property="og:image" content="https://rambler-co.ru/templates/images/logo_for_facebook.jpg"/>    <link rel="stylesheet" type="text/css" href="templates/build/styles-2.min.css?2018090913626">
+    <!--link(rel='stylesheet', type='text/css', href='templates/build/webflow.css')-->
+    <!--link(rel='stylesheet', type='text/css', href='templates/build/rrrcooo.webflow.css')-->
+    <!--link(rel='stylesheet', type='text/css', href='templates/build/styles.css')-->
+    <meta name="format-detection" content="telephone=no">
+    <meta id="meta" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="160x160" href="favicon-160x160.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="favicon-196x196.png">
+    <link rel="shortcut icon" href="favicon.ico">
+    <!-- [if !IE] <!-->
+    <link rel="manifest" href="/manifest.json">
+    <!-- <![endif]-->
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="mstile-144x144.png">
+    <meta name="cmsmagazine" content="548ddd26ccd02e6d52eb3f40343f10e5">
+    <script>
+      var ONY = ONY || {};
+      ONY.newsListSource = 'upload/News/newsList.30.json';
+    </script>
+    <script>
+var _prum = [['id', '534f87a7abe53d8834427270'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+(function() {
+    var s = document.getElementsByTagName('script')[0]
+      , p = document.createElement('script');
+    p.async = 'async';
+    p.src = '//rum-static.pingdom.net/prum.min.js';
+    s.parentNode.insertBefore(p, s);
+})();
+</script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-50042909-1']);
+_gaq.push(['_addOrganic', 'Rambler', 'query']);
+_gaq.push(['_addOrganic', 'Mail', 'q']);
+_gaq.push(['_addOrganic', 'Nigma', 'q']);
+_gaq.push(['_addOrganic', 'Webalta', 'q']);
+_gaq.push(['_addOrganic', 'Aport', 'r']);
+_gaq.push(['_addOrganic', 'Gogo', 'q']);
+_gaq.push(['_addOrganic', 'Bing', 'q']);
+_gaq.push(['_addOrganic', 'QIP', 'query']); 
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+<!-- begin of Top100 code -->
+<div style="display:none;">
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?3014549"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/3014549/">
+</a>
+
+</noscript>
+</div>
+<!-- end of Top100 code -->      <link href="/templates//assets/css/styles.a35aa14dd2f62ae3f599.css" rel="stylesheet"><link href="/templates//assets/css/lessStyles.a35aa14dd2f62ae3f599.css" rel="stylesheet"><link href="/templates//assets/css/concatCss.a35aa14dd2f62ae3f599.css" rel="stylesheet"></head>
+  <body class=" is-wrapper-rotated" style="background-color: #000; overflow: hidden; height: 100%;">
+    <style type="text/css">
+
+	#loader-wrapper{
+		position: fixed;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		background: #0C0C0C;
+		z-index: 10000;
+		text-align: center;
+		-webkit-transition: -webkit-transform .6s ease;
+		transition: transform .6s ease;
+	}
+	#global-loader {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+		color: #fff;
+	}
+
+	.b-loader__wrapper {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -75px 0 0 -60px;
+		width: 120px;
+		height: 190px;
+	}
+	#alternate-loader-line {
+		-webkit-transition: stroke-dasharray .6s ease, stroke-dashoffset .6s ease;
+		transition: stroke-dasharray .6s ease, stroke-dashoffset .6s ease;
+	}
+	.b-loader-inner {
+		left: 0;
+		position: absolute;
+		top: 39px;
+		width: 100%;
+		height: 50px;
+	}
+	.b-loader-inner svg {
+		height: 38px;
+	}
+	.b-loader__wrapper i {
+		display: block;
+		font-size: 97px;
+		color: #fff;
+	}
+
+
+		.loader-title {
+		font-size: 36px;
+		margin: 40px 0;
+	}
+	.three-values {
+		font-size: 12px;
+	}
+	.three-values {
+		display: inline-block;
+		margin: 0 30px;
+		line-height: 1.5;
+	}
+	.three-values__value {
+		font-size: 30px;
+	}
+	.three-values__text {
+		font-size: 12px;
+	}
+	.welcome {
+		background: #000;
+		height: 40px;
+		line-height: 40px;
+		border-radius: 20px;
+		color: #fff;
+		margin-top: 40px;
+		display: inline-block;
+		padding: 0 30px;
+		overflow: hidden;
+		position: relative;
+		font-size: 14px;
+	}
+	#welcome-loading {
+		position: absolute;
+		top: 10px;
+		right: 0;
+		height: 20px;
+		width: 100%;
+		background: rgba(0,0,0,.9);
+		-webkit-transition: width .25s ease;
+		transition: width .3s ease;
+	}
+	@media (max-width: 640px) {
+		#global-loader {
+			left: 0;
+			width: 100%;
+			-webkit-transform: translate(0, -50%);
+			transform: translate(0, -50%);
+		}
+		.three-values {
+			margin: 0 10px;
+		}
+		.loader-title {
+			margin: 20px 0;
+		}
+
+	}
+
+</style>
+
+
+
+<div id="loader-wrapper">
+	<div id="global-loader">
+		<div class="b-loader__wrapper">
+			<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+				 width="115.75px" height="115px" viewBox="0 0 115.75 115" enable-background="new 0 0 115.75 115" xml:space="preserve">
+				<g opacity="0.2">
+					<path fill="#FFFFFF" d="M106.328,58.616c0,26.605-21.645,48.25-48.25,48.25s-48.25-21.645-48.25-48.25s21.645-48.25,48.25-48.25
+			S106.328,32.011,106.328,58.616z M104.135,58.616c0-25.396-20.661-46.057-46.057-46.057c-25.396,0-46.057,20.661-46.057,46.057
+			c0,25.396,20.661,46.057,46.057,46.057C83.474,104.673,104.135,84.012,104.135,58.616z"/>
+				</g>
+					<path id="alternate-loader-line" d="M12.021,58.607c0-25.396,20.661-46.057,46.057-46.057c25.396,0,46.057,20.661,46.057,46.057
+			c0,25.396-20.661,46.057-46.057,46.057C32.683,104.664,12.021,84.003,12.021,58.607z" fill="#0C0C0C" stroke="#ffffff" stroke-width="2" stroke-dashoffset="289.354" stroke-dasharray="0, 289.354" />
+			</svg>
+			<div class="js-loader-wrapper b-loader-inner">
+				<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 96 112" enable-background="new 0 0 96 112" xml:space="preserve"><g><path fill="#ffffff" d="M68.3 95.2c-6.7 8.7-16.8 15.5-32.6 15.5c-20.2 0-34.3-12.7-34.3-30.4c0-17.8 12.6-28.4 25.2-36.9 c-8.2-2.7-14.1-9.9-14.1-20c0-13.2 11.1-22 23.4-22c12.4 0 23.5 8.8 23.5 22c0 9.9-7.1 18.5-15.8 20.2l25.8 33.2 c5.2-9.1 8.8-21.6 8.8-36h12c0 16.8-4.9 33.5-13.4 45.7l17.8 22.6H79.4L68.3 95.2z M60.9 85.4L34.3 50.5 c-11.1 8.3-19.3 16.5-19.3 27.3c0 12.1 9.7 20.6 20.9 20.6C47.4 98.5 55.6 93.3 60.9 85.4z M35.9 35.4c6.8 0 12.1-5.5 12.1-12 c0-6.7-5.5-12.1-12.1-12.1c-6.7 0-12 5.3-12 12.1C23.9 29.9 29.2 35.4 35.9 35.4z"/></g></svg>
+			</div>
+		</div>
+
+
+		<script>
+
+			(function() {
+
+				'use strict';
+
+				var sides   = document.querySelectorAll('.js-loader-wrapper'),
+
+					//	List of classes for different '&'
+					ampList =   [
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 96 112" enable-background="new 0 0 96 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M68.3 95.2c-6.7 8.7-16.8 15.5-32.6 15.5c-20.2 0-34.3-12.7-34.3-30.4c0-17.8 12.6-28.4 25.2-36.9 c-8.2-2.7-14.1-9.9-14.1-20c0-13.2 11.1-22 23.4-22c12.4 0 23.5 8.8 23.5 22c0 9.9-7.1 18.5-15.8 20.2l25.8 33.2 c5.2-9.1 8.8-21.6 8.8-36h12c0 16.8-4.9 33.5-13.4 45.7l17.8 22.6H79.4L68.3 95.2z M60.9 85.4L34.3 50.5 c-11.1 8.3-19.3 16.5-19.3 27.3c0 12.1 9.7 20.6 20.9 20.6C47.4 98.5 55.6 93.3 60.9 85.4z M35.9 35.4c6.8 0 12.1-5.5 12.1-12 c0-6.7-5.5-12.1-12.1-12.1c-6.7 0-12 5.3-12 12.1C23.9 29.9 29.2 35.4 35.9 35.4z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 87 112" enable-background="new 0 0 87 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M72.3 92.7c8.7 9.3 13.1 14 13.3 14.2c0.2 0.2 0.3 0.6 0.3 1.1c0 1.1-0.5 1.6-1.6 1.6h-9.9 c-0.6 0-1.1-0.1-1.4-0.3c-0.3-0.2-1.2-1.1-2.7-2.7l-5.4-5.9c-7.7 6.5-17.2 9.8-28.5 9.8c-10.7 0-19.3-2.3-25.7-6.8 c-6.4-4.6-9.6-11.1-9.6-19.5v-1.2c0-5.9 1.6-10.9 4.8-15.2c3.2-4.2 8.5-8.6 15.9-13.3c-6.7-7.7-11.1-13.6-13-17.6 c-2-4-3-7.9-3-11.6v-1.1c0-7.4 2.6-13.1 7.9-17c5.3-4 12.7-6 22.4-6c8.6 0 15.6 2 20.9 6.1c5.3 4.1 7.9 9.7 7.9 16.9v1.1 c0 5.6-1.7 10.5-5.2 14.6c-3.5 4.1-10.4 9.7-21 16.7L64.9 85c3.8-6.7 5.6-15.2 5.6-25.5v-2c0-1.6 0.8-2.3 2.3-2.3H79 c1.6 0 2.5 0.8 2.5 2.3v2C81.4 72.6 78.4 83.7 72.3 92.7z M57.9 93.4L29.2 62.6c-5.2 3.2-9 6.2-11.3 9.1c-2.4 2.8-3.5 6.7-3.5 11.5 v1.2c0 5.2 2 9.3 6 12.1c4 2.9 9.4 4.3 16.1 4.3C45 100.7 52.2 98.3 57.9 93.4z M52.9 25.5v-1.1c0-8.9-5.6-13.3-16.8-13.3 c-12.3 0-18.5 4.4-18.5 13.3v1.1c0 3.1 0.8 6 2.3 8.9c1.5 2.9 5.3 7.7 11.5 14.4c8.9-5.5 14.7-9.5 17.4-12.2 C51.5 33.9 52.9 30.2 52.9 25.5z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 102 112" enable-background="new 0 0 102 112" xml:space="preserve"><g>   <path fill="#ffffff" d="M15.2 25.6c0-4.5 1.2-8.5 3.5-12.2c2.3-3.7 5.8-6.6 10.3-8.8c4.5-2.2 9.8-3.2 15.9-3.2 c6.1 0 11.3 1.1 15.7 3.4c4.4 2.3 7.7 5.2 9.9 8.9c2.2 3.7 3.3 7.4 3.3 11.4c0 5.4-1.8 10.1-5.3 14.1c-3.6 4-8.8 8-15.7 12.2 c2.4 2.8 4.6 5.5 6.7 8c2.1 2.5 4.1 4.8 6 7c1.9 2.2 3.7 4 5.3 5.5c0.7-1.3 1.8-3.9 3.4-7.6c1.5-3.7 2.9-6.4 4.3-8 c1.3-1.6 3.2-2.5 5.6-2.5c2.3 0 4.3 0.8 6 2.4c1.7 1.6 2.6 3.6 2.6 5.9c0 2.1-0.7 5.1-2.2 9c-1.5 3.9-3.7 8.2-6.5 12.9 c1.8 1.5 4.6 3.9 8.5 7c3.9 3.1 6.2 5.3 7.1 6.4c0.9 1.1 1.3 2.6 1.3 4.5c0 2.5-0.9 4.6-2.7 6.3c-1.8 1.7-3.8 2.6-6 2.6 c-2.3 0-4.4-0.7-6.6-2.2c-2.1-1.4-6.6-5-13.5-10.6c-3.1 2.9-6.4 5.3-9.7 7.2c-3.3 1.9-6.9 3.3-10.7 4.2c-3.8 0.9-8.1 1.4-12.8 1.4 c-6 0-11.4-0.9-16.2-2.6c-4.8-1.8-8.8-4.1-11.9-7.1c-3.2-3-5.5-6.3-7.1-9.9C2 87.4 1.3 83.7 1.3 79.9C1.3 76.3 1.8 73 3 70 c1.2-3 2.8-5.7 4.9-8.1c2.1-2.4 4.7-4.7 7.7-6.9c3.1-2.2 6.6-4.3 10.6-6.4c-3.6-4.5-6.3-8.5-8.2-12.1C16.2 33 15.2 29.3 15.2 25.6z M35.6 60.1c-4.9 2.8-8.6 5.7-11 8.5c-2.4 2.8-3.6 6.2-3.6 10.1c0 2.2 0.4 4.3 1.3 6.3c0.9 2 2.2 3.9 3.9 5.6 c1.7 1.7 3.7 3.1 5.9 4c2.3 0.9 4.6 1.4 7.1 1.4c2.4 0 4.8-0.4 7.1-1.2c2.3-0.8 4.5-1.9 6.6-3.3c2.1-1.4 4.2-3.2 6.4-5.3 c-4.3-3.9-8.1-7.8-11.5-11.7C44.5 70.7 40.4 65.9 35.6 60.1z M43 40.4c4.9-3.1 8.4-5.8 10.6-7.9c2.2-2.1 3.3-4.7 3.3-7.7 c0-3-1.1-5.5-3.3-7.5c-2.2-2-4.9-3-8.3-3c-3.3 0-6.1 1-8.3 3.1c-2.2 2.1-3.4 4.5-3.4 7.3c0 1.4 0.4 3 1.3 4.7 c0.8 1.7 1.9 3.3 3.1 4.9C39.3 35.8 41 37.9 43 40.4z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 99 112" enable-background="new 0 0 99 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M87.4 110.6c-4.7 0-10.3-0.9-15.8-6.2l-5.5-5.3c-4.4 4.8-13 11.4-29 11.4c-23.6 0-35.7-13.3-35.7-31.1 c0-13 10.3-24 20.8-30c-5.2-5.9-10-13.4-10-20.6c0-14 10.6-27.5 30.9-27.5c15.9 0 26.9 9.4 26.9 24.7c0 10.6-9.1 20.3-22.6 27.9 c4.5 5.8 13.4 16.2 19.2 21.9c5.5-6.1 10.6-17.5 10.9-27.3h4.2c4.7 0 8.7 3 8.7 10.9c0 8.7-7.3 20.6-12.6 27.8l3.1 3 c7 6.7 11.6 8.3 16.9 8.6C97.7 106.6 94.7 110.6 87.4 110.6z M31.9 61.6c-5.3 3.1-10.6 8.7-10.6 15.6c0 12.2 6.7 16.7 18.4 16.7 c5.5 0 11.9-2.3 15.5-6.1C49.3 82.1 36.8 68.5 31.9 61.6z M42.1 16.5c-7 0-10.8 3.9-10.8 11.2c0 5.8 4.1 10.1 7.2 14.7 c9.2-5.3 13.6-9.8 13.6-15.9C52.1 19.9 48.3 16.5 42.1 16.5z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 82 112" enable-background="new 0 0 82 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M76.6 108.2L63.3 91.3c-3 5.5-7.1 10.1-12.2 13.8c-5.1 3.7-11.5 5.5-19.1 5.5c-3.7 0-7.4-0.6-11.1-1.8 c-3.7-1.2-7-2.9-9.8-5.2c-2.8-2.2-5.2-5-7-8.2c-1.8-3.2-2.7-7-2.7-11.2c0-4.4 0.9-8.3 2.7-11.8c1.8-3.4 4.1-6.6 6.9-9.4 c2.8-2.8 5.9-5.3 9.3-7.6c3.4-2.2 6.7-4.4 9.9-6.4c-1.5-2.1-3.1-4.3-4.9-6.5c-1.8-2.2-3.5-4.5-5.2-6.9c-1.6-2.3-3-4.7-4.1-7.2 c-1.1-2.4-1.6-4.9-1.6-7.4c0-3.5 0.6-6.5 1.9-9c1.3-2.5 3-4.5 5-6.1c2-1.6 4.4-2.8 7-3.6c2.6-0.8 5.2-1.2 7.9-1.2 c3 0 5.8 0.4 8.5 1.3c2.6 0.9 5 2.2 7 3.9c2 1.7 3.6 3.8 4.7 6.2c1.1 2.4 1.7 5.3 1.7 8.5c0 3.6-0.8 6.8-2.3 9.5 c-1.5 2.7-3.5 5.2-5.8 7.5c-2.3 2.2-4.8 4.3-7.6 6.2c-2.8 1.9-5.4 3.7-7.8 5.5l28.1 35.6c1-2.2 1.9-4.9 2.7-8.1 c0.8-3.2 1.1-6.8 0.9-10.8h3c0.1 4.5-0.3 8.4-1 11.6c-0.8 3.2-1.9 6.6-3.4 10l15.7 19.9H76.6z M22.7 57.6c-3.2 2.1-6.2 4.4-8.9 7 c-2.7 2.5-4.9 5.4-6.7 8.6c-1.7 3.2-2.6 6.9-2.6 11.1c0 3.8 0.8 7.2 2.4 10.1c1.6 2.9 3.7 5.4 6.2 7.4c2.5 2 5.5 3.5 8.8 4.5 c3.3 1 6.7 1.5 10.1 1.5c7.2 0 13.2-1.8 18-5.4c4.8-3.6 8.6-8.2 11.4-13.9L32 51.7C29 53.6 25.9 55.6 22.7 57.6z M18.2 26.1 c0.6 1.7 1.5 3.6 2.8 5.6c1.2 2 2.8 4.4 4.8 7c1.9 2.6 4.3 5.6 7 9.1c2.1-1.5 4.4-3.1 7-4.9c2.6-1.8 5-3.8 7.3-5.9 c2.2-2.1 4.1-4.5 5.7-7.1c1.5-2.6 2.3-5.4 2.3-8.5c0-2.6-0.5-4.9-1.5-7c-1-2.1-2.4-3.9-4.1-5.3c-1.7-1.4-3.7-2.6-6-3.4 c-2.2-0.8-4.6-1.2-7.1-1.2c-2.6 0-5 0.4-7.3 1.1c-2.3 0.7-4.3 1.8-6.1 3.3c-1.7 1.4-3.1 3.2-4.1 5.2c-1 2-1.5 4.4-1.5 7 C17.3 22.7 17.6 24.4 18.2 26.1z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 115 113" enable-background="new 0 0 115 113" xml:space="preserve"><g>   <path fill="#ffffff" d="M69 100.4c-10.1 8-17 10.7-30.7 10.7C9.7 111.1 1.7 94 1.7 81.6C1.7 64 16.8 55 26.4 51.4 c-5.4-6.3-8.3-12.6-8.3-20.8c0-14.8 11.4-28.7 34.3-28.7c25.1 0 33 16.3 33 28.6c0 13.7-8.1 22-19.1 28.7l6.6 7.2l17-14.9L108 70.3 L91.7 84.8l21.5 23.5H76.4L69 100.4z M41.5 69.9c-4.8 3.3-8 5-8 10.8c0 4.1 3.3 6 7.4 6c3 0 6-1.2 10.2-5.3L41.5 69.9z M60.1 31.4 c0-5.1-4.2-6.5-6.8-6.5c-2.3 0-6.2 1.5-6.2 7.1c0 4.1 2 6.8 5 9.9C56.2 39.2 60.1 36 60.1 31.4z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 98 115" enable-background="new 0 0 98 115" xml:space="preserve"><g>     <path fill="#ffffff" d="M94.7 112.3c-0.6 1-1.5 1.3-2.8 0.8c-1.5-0.7-3.3-1.7-5.3-3c-2-1.3-4.1-2.7-6.3-4.3c-2.2-1.5-4.4-3.2-6.6-5 c-2.2-1.8-4.3-3.6-6.1-5.3c-5.5 3.9-11.1 6.9-17 8.9c-5.9 2-11.6 3-17.2 3c-4.5 0-8.8-0.6-12.7-1.7c-3.9-1.1-7.3-2.9-10.2-5.3 C7.7 98 5.4 95 3.7 91.5C2 87.9 1.1 83.7 1.1 78.7c0-7 2.2-13.3 6.7-18.8c4.4-5.5 10.8-10.7 19.2-15.4c-2.7-3.9-4.8-7.8-6.3-11.5 c-1.5-3.8-2.2-7-2.2-9.7c0-3.1 0.5-6 1.5-8.6c1-2.6 2.4-4.9 4.2-6.8c1.8-1.9 4-3.4 6.6-4.6c2.6-1.1 5.5-1.7 8.8-1.7 c6.5 0 11.6 1.8 15.2 5.5c3.6 3.7 5.4 8.2 5.4 13.5c0 5.6-1.9 10.4-5.6 14.5c-3.7 4.1-9 8.2-15.8 12.1c4.1 6.6 8.8 13.2 14 19.7 c5.2 6.5 10.5 12.5 16 17.9c5-5 9.2-10.7 12.7-17.3c3.5-6.6 5.8-13.9 6.8-22c0.2-0.5 0.4-0.9 0.6-1.2c0.2-0.3 0.6-0.4 1.2-0.4 l3.2 0.2c0.7 0.1 1.2 0.4 1.3 0.8c0.2 0.4 0.2 0.9 0.2 1.4c-0.3 4.3-1.1 8.6-2.5 12.9c-1.3 4.3-3 8.4-5 12.2 c-2 3.9-4.1 7.4-6.5 10.7c-2.4 3.2-4.7 6-7 8.1c3.5 3.3 7.2 6.4 11 9.3c3.8 2.9 7.5 5.3 11 7.3c0.9 0.6 1.1 1.3 0.6 2.2L94.7 112.3 z M62.2 89.9c-2.8-2.7-5.6-5.7-8.6-9c-2.9-3.3-5.8-6.7-8.5-10.2c-2.7-3.5-5.3-7-7.7-10.4c-2.4-3.4-4.6-6.6-6.4-9.6 c-6.5 3.6-11.8 7.6-15.9 12.1C11.1 67.2 9 72.4 9 78.4c0 3.8 0.6 7.1 1.9 9.8c1.2 2.7 2.9 5 5.1 6.7c2.2 1.8 4.7 3.1 7.6 3.9 c2.9 0.9 5.9 1.3 9.1 1.3c4.6 0 9.5-0.8 14.5-2.5C52.2 96.1 57.2 93.5 62.2 89.9z M51.9 21.3c0-3.6-1.2-6.6-3.6-8.9 c-2.4-2.3-5.4-3.5-9.1-3.5c-2.3 0-4.2 0.5-5.7 1.4c-1.5 0.9-2.8 2.1-3.7 3.5c-0.9 1.4-1.6 2.9-2 4.4c-0.4 1.5-0.6 3-0.6 4.3 c0 2.7 0.6 5.5 1.9 8.6c1.3 3 3.1 6.3 5.5 9.7c2.5-1.2 4.8-2.6 6.9-3.9c2.1-1.4 3.9-2.9 5.5-4.4c1.5-1.5 2.8-3.3 3.6-5.1 C51.4 25.5 51.9 23.5 51.9 21.3z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 88 112" enable-background="new 0 0 88 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M67.3 107.9l-5.2-6.2c-7.6 5.9-16.5 8.8-26.8 8.8c-9.8 0-17.8-3.1-24.2-9.3c-6.4-6.2-9.6-14-9.6-23.5 c0-7.4 1.9-13.5 5.7-18.5c3.8-4.9 10.1-9.3 18.9-13C22 37.1 20 29.8 20 24.2c0-6.7 2.1-12.2 6.3-16.4c4.2-4.2 9.7-6.3 16.5-6.3 c6.5 0 11.7 1.9 15.8 5.6c4.1 3.7 6.1 8.5 6.1 14.5c0 10.4-7.3 19.8-21.9 28.1C48.2 60.2 56 71.6 66.2 84 c4.4-6.5 6.6-15.2 6.6-26.1l-0.1-5.3h13.8c-1 17.3-5.6 30.5-13.9 39.7c4.4 5.2 9 10.4 13.9 15.6H67.3z M56.1 93.6 C45 80.2 36.5 67.3 30.3 54.9C20.7 59.6 16 66.3 16 74.9c0 7 2.1 13 6.4 17.9c4.3 4.9 9.4 7.4 15.5 7.4 C43.7 100.1 49.8 98 56.1 93.6z M38.7 40.5c8.8-4.2 13.3-10.2 13.3-17.9c0-3.1-0.8-5.7-2.5-7.7c-1.7-2-3.8-3-6.4-3 c-2.6 0-4.7 1.1-6.6 3.2c-1.8 2.1-2.7 4.7-2.7 7.7C33.8 27.2 35.4 33.1 38.7 40.5z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 98 112" enable-background="new 0 0 98 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M79.2 109L69 99.3c-8.4 7.8-18.8 11.3-30.5 11.3c-20.2 0-37.5-13-37.5-34c0-13.9 6.9-22.4 18.5-28.8 c-4.5-6.7-8.1-13.1-8.1-21.5C11.5 9 26 1.4 41.5 1.4C54.4 1.4 68 8.1 68 22.6c0 17.3-18.8 22.7-31.6 28.4 c10.2 10.6 20.5 20.8 31.2 30.8c2.2-5.2 3.1-13.9 3.4-19.4h11.9C82.3 73.5 81.5 80 76.5 90l20.5 19H79.2z M25.9 55.9 c-7.9 4.2-12.4 10.9-12.4 20c0 14.9 11.8 25.2 26.3 25.2c9 0 16.1-2.7 21.8-9C49.4 80.2 37.5 68.2 25.9 55.9z M41.2 10.8 c-9.4 0-17.6 4.5-17.6 14.8c0 6.6 3.1 11.6 6.6 17c3.9-1.6 7.8-3.3 11.6-5.1c6.4-3 13.9-6.9 13.9-15.1 C55.7 14.4 48.4 10.8 41.2 10.8z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 85 113" enable-background="new 0 0 85 113" xml:space="preserve"><g>     <path fill="#ffffff" d="M54.1 1.2c1 0 2.1 0 3.1 0c0.4 0.1 0.8 0.1 1.2 0.2c5.1 0.7 9.3 3 11.9 7.4c3.8 6.6 3.4 13.2-0.8 19.6 c-2 3.1-4.8 5.4-7.7 7.6c-5.5 4.2-11.4 7.6-17.2 11.4c-1 0.7-1.3 1.3-1 2.6c1.2 4.6 2.7 9.1 4.6 13.5c2.2 5 4.9 9.7 8.1 14 c0.5 0.7 0.9 1.1 1.3-0.1c3.7-9.2 6.2-18.6 6.8-28.5c0.2-3.3 0.6-3.9 3.8-4.7c0.4-0.1 0.8-0.2 1.2-0.3c5.3-0.9 9.1 2.3 8.9 7.3 c-0.2 4.6-1.1 9-2.6 13.4c-2.6 7.3-6.4 14-11.1 20.2c-0.7 0.9-0.6 1.4 0.2 2.2c4.6 4.1 9.6 7.7 15.3 10.3c4.1 1.9 4.2 2.2 3.7 6.6 c-0.4 4.1-2.8 6.8-6.8 7.6c-4.5 0.9-8.8-0.1-12.9-2c-4.7-2.2-8.7-5.4-12.2-9.2c-0.8-0.8-1.3-0.9-2.2-0.2c-1.8 1.3-3.7 2.6-5.6 3.8 c-6.7 4-13.8 6.6-21.8 5.6c-6.5-0.8-12-3.6-16.2-8.7c-2.8-3.5-4.3-7.6-4.9-12c0-1.5 0-3 0-4.5c0.1-0.3 0.1-0.5 0.2-0.8 c0.6-6.3 3.1-11.8 6.9-16.7c4.6-6 10.4-10.6 16.5-14.8c2.6-1.8 2.1-1.1 1.6-3.8c-1.9-10.2-1.3-20.2 3.2-29.8 c3.3-6.9 8.2-12.1 15.4-15C47.8 2.1 50.9 1.6 54.1 1.2z M33.8 101.6c5-0.3 9.1-2.6 12.6-6.2c0.5-0.6 0.5-1 0-1.6 c-0.9-1.2-1.8-2.4-2.6-3.7c-6.2-9-10.7-18.9-14.2-29.2c-0.5-1.5-0.6-1.5-1.7-0.4c-8.9 9.3-10.8 22.8-4.7 34.1 C25.4 98.7 28.7 101.4 33.8 101.6z M40.9 27.7c0 3.7 0.3 7.7 0.8 11.7c0.1 0.6 0.1 1.2 1 0.6c4.1-3 8.3-5.9 11.7-9.8 c3.8-4.4 6.1-9.3 5.9-15.3c-0.2-4.5-3-8-6.6-8.3c-4.8-0.4-8.5 2-10.4 6.4C41.3 17.6 40.8 22.4 40.9 27.7z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 107 112" enable-background="new 0 0 107 112" xml:space="preserve"><g>   <path fill="#ffffff" d="M56.8 49.8l18.4 29.3c0.2 0.7 1 2 2.5 4.1c6.6-9 10.6-21.2 12-36.8H74.4v-4.1h31.2v4.1H93.5 c-1.1 16.8-5.5 30.1-13.4 40l12.8 17.7h11.7v4H73c-2.3-3.3-4.4-6.1-6.3-8.4c-9.1 7.2-19.2 10.8-30.3 10.8 c-11.1 0-19.7-2.9-25.8-8.7c-6.1-5.8-9.2-12.8-9.2-21c0-7.7 2.7-14.7 8.2-20.8C15 54 22.8 49.4 33 46.3c-6-10.3-9.1-18.1-9.1-23.6 c0-5.7 2.5-10.6 7.4-14.9c5-4.3 11.1-6.4 18.6-6.4c7.2 0 13.5 1.7 18.8 5.2c5.3 3.5 7.9 8 7.9 13.6c0 4.6-1.7 8.6-5.2 12.1 c-3.5 3.5-9.8 6.9-18.8 10.2L56.8 49.8z M34.9 49.7c-11.2 4.2-16.8 10.1-16.8 17.6c0 7 2.8 15 8.5 24c5.6 9 12.2 13.5 19.6 13.5 c5.7 0 11.9-2.7 18.6-8C53.1 79.8 43.1 64.2 34.9 49.7z M50.5 39.1c5.1-2.1 8.4-4.5 10-7.3c1.5-2.8 2.3-6.7 2.3-11.5 c0-9.9-4.2-14.9-12.6-14.9c-3.2 0-5.9 0.9-8 2.6c-2.1 1.7-3.2 3.9-3.2 6.5C39.1 19.1 42.9 27.3 50.5 39.1z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 74 112" enable-background="new 0 0 74 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M72.5 109.2h-9.9l-7.1-10.6c-5.5 8.1-15.7 12-25.5 12c-17.5 0-28.5-11-28.5-29.4c0-15.5 10-24.9 21.2-33 C16.4 39 11.8 32.2 11.8 20.5c0-12.2 7.8-19.1 19.3-19.1c10.9 0 19.1 7 19.1 18.6c0 13.3-7.1 21.7-16.8 29l21.7 33.9 c2.8-6.5 3.8-14.8 3.8-22.3h9c0 8-2.6 22-7 30.1L72.5 109.2z M26.4 54.8C16.7 62.1 10.6 69 10.6 82.1c0 12.5 7.8 20.6 19.7 20.6 c8.7 0 15.4-3 20.3-11L26.4 54.8z M30.5 9.3c-6.7 0-10.6 3.9-10.6 10.9c0 8.5 4.3 16.2 9 22.6c7-4.8 12.3-12.9 12.3-21.9 C41.2 13.2 38 9.3 30.5 9.3z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 96 112" enable-background="new 0 0 96 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M46.7 49.9l19 23l0.6-0.7c2.1-2.2 4-4.4 5.8-6.6c1.8-2.1 3.6-4.3 5.3-6.5l10.4 10.7c-1.3 1.8-3 3.9-5 6.4 c-2.1 2.4-4.5 5.2-7.4 8.3l19.5 24.1H75.1L64.6 95.7c-9.7 10-19.7 15-30.1 15c-9.3 0-17.3-3-23.8-9c-6.4-6-9.6-13.4-9.6-22.3 c0-10.5 5.1-19.3 15.2-26.2l6.9-4.7c0.1 0 0.2-0.2 0.5-0.3c0.2-0.2 0.5-0.4 1-0.8c-7-7.4-10.5-14.7-10.5-21.9 c0-7.1 2.3-12.9 7-17.4C25.8 3.6 32 1.4 39.4 1.4c7.2 0 13.2 2.2 18 6.5c4.7 4.3 7.1 9.8 7.1 16.4c0 4.6-1.3 8.7-3.9 12.4 C58.1 40.3 53.4 44.7 46.7 49.9z M34.1 58.8l-0.9 0.6c-6.5 4.5-11 8.1-13.3 10.9c-2.3 2.7-3.5 5.6-3.5 8.7c0 4.4 1.8 8.4 5.3 12 c3.6 3.5 7.7 5.3 12 5.3c6.2 0 13.2-4 21.3-12.1L34.1 58.8z M37.5 38.7l1.3-1c2.2-1.7 4.1-3.2 5.5-4.4c1.5-1.3 2.5-2.3 3.1-3.2 c1.4-1.7 2.1-3.8 2.1-6.2c0-2.8-0.9-5-2.8-6.8c-1.9-1.7-4.4-2.6-7.5-2.6c-2.9 0-5.3 0.9-7.2 2.7c-2 1.7-2.9 3.8-2.9 6.5 c0 3.1 1.2 6.2 3.7 9.2l4 4.8C36.8 37.9 37.1 38.2 37.5 38.7z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 109 112" enable-background="new 0 0 109 112" xml:space="preserve"><g>   <path fill="#ffffff" d="M107.6 109H88.5L65.6 86l-16.3 16.4c-5.2 5.4-12.3 8.2-19.9 8.2c-7.5 0-14.5-2.8-19.9-8.2 c-10.9-10.9-10.9-28.9 0-39.8L26 46.2l-6.6-6.7c-8.8-9.1-8.7-23 0-31.7c8.5-8.5 23.2-8.5 31.7 0c8.7 8.8 8.7 23 0 31.9l-6.3 6.3 l20.8 20.8c2.7-3.4 3.9-7.3 3.9-11.5c-0.2-2.8-0.7-5.5-1.8-8.1l10.6-8.2c2.5 4.9 4 10.3 4.2 16.3v0.1c0 7.8-2.4 15.3-7.5 21.1 L107.6 109z M56.3 77.1L35 55.8L18.5 72.2C12.8 78 13 87.5 18.8 93.3c2.8 2.8 6.6 4.5 10.6 4.5c4 0 7.9-1.6 10.8-4.5L56.3 77.1z M29.1 30.8l6.1 6.1l6.6-6.6c3.7-3.7 3.7-9.6 0-13.3c-3.9-3.9-9.4-3.9-13.2 0c-1.8 1.8-2.8 4.2-2.8 6.6 C25.8 26.1 26.9 28.5 29.1 30.8z"/></g></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 101 112" enable-background="new 0 0 101 112" xml:space="preserve">      <path fill="#ffffff" d="M73.9 81.2L90.6 55H76.1L65.4 72.1l-20.4-22c7.7-4.5 19.8-12.5 19.8-25c0-14.3-12-23.8-25.4-23.8 C25.6 1.4 14 10.9 14 25c0 8.8 5.8 16.2 11.6 22.2C12.8 55 1.1 63.2 1.1 79c0 17.2 14 31.7 33.3 31.7c15.3 0 25.6-10.9 32-19.3 L83.1 109h16.8L73.9 81.2z M39.3 12.4c7.4 0 13.2 4.9 13.2 12c0 8.8-9.8 13.8-15.9 16.8C31.8 36.6 26.2 30.7 26.2 24 C26.2 17.7 31.7 12.4 39.3 12.4z M33.8 98.9c-9.7 0-19.9-8.3-19.9-18.1c0-11.3 9.7-19.2 20.1-24.2l23.9 25.7 C52.4 89.4 45.1 98.9 33.8 98.9z"/></svg>',
+						'<svg xmlns="http://www.w3.org/2000/svg"  version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 82 112" enable-background="new 0 0 82 112" xml:space="preserve"><g>     <path fill="#ffffff" d="M76.6 108.2L63.3 91.3c-3 5.5-7.1 10.1-12.2 13.8c-5.1 3.7-11.5 5.5-19.1 5.5c-3.7 0-7.4-0.6-11.1-1.8 c-3.7-1.2-7-2.9-9.8-5.2c-2.8-2.2-5.2-5-7-8.2c-1.8-3.2-2.7-7-2.7-11.2c0-4.4 0.9-8.3 2.7-11.8c1.8-3.4 4.1-6.6 6.9-9.4 c2.8-2.8 5.9-5.3 9.3-7.6c3.4-2.2 6.7-4.4 9.9-6.4c-1.5-2.1-3.1-4.3-4.9-6.5c-1.8-2.2-3.5-4.5-5.2-6.9c-1.6-2.3-3-4.7-4.1-7.2 c-1.1-2.4-1.6-4.9-1.6-7.4c0-3.5 0.6-6.5 1.9-9c1.3-2.5 3-4.5 5-6.1c2-1.6 4.4-2.8 7-3.6c2.6-0.8 5.2-1.2 7.9-1.2 c3 0 5.8 0.4 8.5 1.3c2.6 0.9 5 2.2 7 3.9c2 1.7 3.6 3.8 4.7 6.2c1.1 2.4 1.7 5.3 1.7 8.5c0 3.6-0.8 6.8-2.3 9.5 c-1.5 2.7-3.5 5.2-5.8 7.5c-2.3 2.2-4.8 4.3-7.6 6.2c-2.8 1.9-5.4 3.7-7.8 5.5l28.1 35.6c1-2.2 1.9-4.9 2.7-8.1 c0.8-3.2 1.1-6.8 0.9-10.8h3c0.1 4.5-0.3 8.4-1 11.6c-0.8 3.2-1.9 6.6-3.4 10l15.7 19.9H76.6z M22.7 57.6c-3.2 2.1-6.2 4.4-8.9 7 c-2.7 2.5-4.9 5.4-6.7 8.6c-1.7 3.2-2.6 6.9-2.6 11.1c0 3.8 0.8 7.2 2.4 10.1c1.6 2.9 3.7 5.4 6.2 7.4c2.5 2 5.5 3.5 8.8 4.5 c3.3 1 6.7 1.5 10.1 1.5c7.2 0 13.2-1.8 18-5.4c4.8-3.6 8.6-8.2 11.4-13.9L32 51.7C29 53.6 25.9 55.6 22.7 57.6z M18.2 26.1 c0.6 1.7 1.5 3.6 2.8 5.6c1.2 2 2.8 4.4 4.8 7c1.9 2.6 4.3 5.6 7 9.1c2.1-1.5 4.4-3.1 7-4.9c2.6-1.8 5-3.8 7.3-5.9 c2.2-2.1 4.1-4.5 5.7-7.1c1.5-2.6 2.3-5.4 2.3-8.5c0-2.6-0.5-4.9-1.5-7c-1-2.1-2.4-3.9-4.1-5.3c-1.7-1.4-3.7-2.6-6-3.4 c-2.2-0.8-4.6-1.2-7.1-1.2c-2.6 0-5 0.4-7.3 1.1c-2.3 0.7-4.3 1.8-6.1 3.3c-1.7 1.4-3.1 3.2-4.1 5.2c-1 2-1.5 4.4-1.5 7 C17.3 22.7 17.6 24.4 18.2 26.1z"/></g></svg>'
+					],
+
+					ampNum = 0
+				;
+
+
+
+				window.loader_start = function() {
+					window.loader_interval = setInterval(function(){
+						sides[0].innerHTML = ampList[ampNum];
+						ampNum++;
+						if ( ampNum === ampList.length ) {
+							ampNum = 0;
+						}
+					}, 350);
+				};
+
+
+				window.loader_stop = function() {
+					clearInterval(window.loader_interval)
+				};
+
+				window.loader_start();
+			})();
+
+		</script>
+
+
+
+
+			</div>
+</div>
+
+<script type="application/javascript">
+	(function(){
+		var loader = document.getElementById('welcome-loading');
+		if ( loader ) {
+			loader.style.width = '70%';
+		}
+				var loader2 = document.getElementById('alternate-loader-line');
+		if ( loader2 ) {
+			var loaderStrokeLength	= loader2.getTotalLength();
+			var progress = 0;
+			var interval = setInterval(function(){
+				progress += .2;
+				loader2.style.strokeDashoffset = Math.floor(loaderStrokeLength * (1 - progress));
+				loader2.style.strokeDasharray = Math.ceil(loaderStrokeLength * progress * 1000 ) / 1000 + ', ' + Math.floor(loaderStrokeLength * (1 - progress) * 1000 ) / 1000;
+				if ( progress === 1) {
+					clearInterval(interval);
+					if ( window.app ) {
+						app.on('pageAnimated', function() {
+							loader2.style.strokeDashoffset = 0;
+							loader2.style.strokeDasharray = '0, ' + loaderStrokeLength;
+						});
+					}
+				}
+			}, 40);
+		}
+			})();
+</script>
+
+<!-- Хедер с логотипом  и навигацией-->
+<header class="b-header b-header_not-fixed">
+
+	<!--	Логотип     -->
+	<a href="./" class="b-header__logo" >
+		<img src="templates/images/logo.svg" alt=""         class="b-header__logo__desktop _logo-white" />
+		<img src="templates/images/&.svg" alt=""            class="b-header__logo__mobile _logo-white" />
+
+		<img src="templates/images/logo_black.svg" alt=""   class="b-header__logo__desktop _black" />
+		<img src="templates/images/&_black.svg" alt=""      class="b-header__logo__mobile _black" />
+	</a>
+
+	<div class="js-mobile-lang b-mobile-lang__btn"><a href="//rambler-co.ru/" class="icon_lang icon-en">Ru</a><a href="//rambler-co.ru/en" class="icon_lang icon-en active_lang">En</a></div>	<nav class="b-nav"><a class="b-nav__link" href="">Мы</a><a class="b-nav__link" href="advertising">Реклама</a><span class="b-nav__link active">Карьера</span><a class="b-nav__link" href="contacts">Контакты</a><a class="b-nav__link" href="live">Новости</a></nav>
+
+
+
+	<a href="javascript:void(0)" class="b-mobile-nav__btn js-mobile-menu-btn">
+		<i class="icon-menu" onclick="_gaq.push(['_trackEvent','Главный экран','Бургер','Клик по самому бургеру']);yaCounter36704010.reachGoal('burger');"></i>
+	</a>
+</header>
+<a href="javascript:_gaq.push(['_trackEvent','Главный экран','Бургер','Клик по самому бургеру']);yaCounter36704010.reachGoal('burger');void(0)" class="b-burger-menu b-mobile-nav__btn"><i class="icon-menu"></i></a>    <div class="b-mobile-nav js-mobile-nav"><span class="b-mobile-nav__container"><li class=b-mobile-nav__item><a class="b-mobile-nav__link" href="index">Мы</a></li><li class=b-mobile-nav__item><a class="b-mobile-nav__link" href="advertising">Реклама</a></li><li class=b-mobile-nav__item><a class="b-mobile-nav__link active" href="jobs">Карьера</a></li><li class=b-mobile-nav__item><a class="b-mobile-nav__link" href="contacts">Контакты</a></li><li class=b-mobile-nav__item><a class="b-mobile-nav__link" href="live">Новости</a></li></span></div>    <!--<pre>--><!--</pre>-->
+<div class="wrapper animate career-wrapper">
+	<div class="career-slider hidden"><!-- Блок со статической картинкой для страницы списка внутри и для детальной вакансии -->
+		<div class="career-slider__title"
+		     style="">Там, где единомышленники</div>
+	</div>
+	<div class="career-slider__container">
+		<div class="career-slider-carousel"><!-- Owl Слайдер с несколькими изображениями -->
+			<div class='career-slider-carousel__item' style="background: url('/templates/images/slider-img__1.jpg')">
+						<div class="career-slider__title">делаем то, что любим</div>
+						<div class="career-slider__text">
+							<span>Мы&nbsp;верим, что в&nbsp;мире есть масса возможностей заниматься тем, что по-настоящему нравится. И&nbsp;точно знаем, что это можно делать у&nbsp;нас, в&nbsp;хорошей компании.</span>
+						</div>
+			</div>
+			<div class='career-slider-carousel__item' style="background: url('/templates/images/slider-img__2.jpg')">
+				<div class="career-slider__title">там, где это ценят</div>
+				<div class="career-slider__text">
+					<span>Работа в&nbsp;Rambler&amp;co&nbsp;&mdash;&nbsp;это возможность реализовать себя в&nbsp;большой группе компаний и&nbsp;быть напрямую причастным к&nbsp;созданию уникальных продуктов на&nbsp;российском медиарынке.</span>
+				</div>
+			</div>
+			<div class='career-slider-carousel__item' style="background: url('/templates/images/slider-img__3.jpg')">
+				<div class="career-slider__title">там, где единомышленники</div>
+				<div class="career-slider__text">
+					<span>Мы&nbsp;нанимаем лучших, чтобы учиться у&nbsp;них, обмениваться опытом и&nbsp;повышать экспертизу.&nbsp;В&nbsp;то&nbsp;же время, нам интересно и&nbsp;выгодно вкладываться в&nbsp;развитие людей, а&nbsp;за&nbsp;увлекательным процессом получать результат.</span></div>
+			</div>
+			<div class='career-slider-carousel__item' style="background: url('/templates/images/slider-img__4.jpg')">
+				<div class="career-slider__title">там, где комфортно</div>
+				<div class="career-slider__text">
+					<span>В&nbsp;лофте на&nbsp;территории в&nbsp;несколько этажей царят уют и&nbsp;домашняя атмосфера. Cобственное кафе, зоны отдыха, кофе-пойнты, большая велопарковка и&nbsp;бесплатные шаттлы до&nbsp;ближайших станций метро&nbsp;&mdash;&nbsp;мы&nbsp;постарались, чтобы офис стал максимально комфортным местом для всех нас. И&nbsp;да, никакого дресс-кода</span></div>
+			</div>
+		</div>
+	</div>
+	<div class="career-title">
+		<h1>Вакансии Rambler&Co</h1>
+	</div>
+	<div class="career-grid" id="careerApp">
+		<div class="career-specialization" id="specializationsListItemsList">
+
+			
+					<div class="career-specialization-item" data-id="18">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>HR</div>
+								<div class="career-specialization-item__count">Вакансий: 2</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>HR</div>
+							<div class="career-specialization-item__count">Вакансий: 2</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="20">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Аналитика</div>
+								<div class="career-specialization-item__count">Вакансий: 2</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Аналитика</div>
+							<div class="career-specialization-item__count">Вакансий: 2</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="22">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Дизайн</div>
+								<div class="career-specialization-item__count">Вакансий: 3</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Дизайн</div>
+							<div class="career-specialization-item__count">Вакансий: 3</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="23">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Коммерция</div>
+								<div class="career-specialization-item__count">Вакансий: 6</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Коммерция</div>
+							<div class="career-specialization-item__count">Вакансий: 6</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="24">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Креатив</div>
+								<div class="career-specialization-item__count">Вакансий: 2</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Креатив</div>
+							<div class="career-specialization-item__count">Вакансий: 2</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="25">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Маркетинг</div>
+								<div class="career-specialization-item__count">Вакансий: 4</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Маркетинг</div>
+							<div class="career-specialization-item__count">Вакансий: 4</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="26">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Математик - программист</div>
+								<div class="career-specialization-item__count">Вакансий: 1</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Математик - программист</div>
+							<div class="career-specialization-item__count">Вакансий: 1</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="28">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Программирование</div>
+								<div class="career-specialization-item__count">Вакансий: 15</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Программирование</div>
+							<div class="career-specialization-item__count">Вакансий: 15</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="30">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Редакция</div>
+								<div class="career-specialization-item__count">Вакансий: 3</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Редакция</div>
+							<div class="career-specialization-item__count">Вакансий: 3</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="31">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Тестирование</div>
+								<div class="career-specialization-item__count">Вакансий: 1</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Тестирование</div>
+							<div class="career-specialization-item__count">Вакансий: 1</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="33">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Управление проектами</div>
+								<div class="career-specialization-item__count">Вакансий: 4</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Управление проектами</div>
+							<div class="career-specialization-item__count">Вакансий: 4</div>
+						</div>
+
+					</div>
+			
+					<div class="career-specialization-item" data-id="35">
+						<div class="career-specialization-item__image">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="-18315 -8238 83.35 83.375">
+								<g transform="translate(-18315 -8238.024)">
+									<g transform="translate(0 0.025)">
+										<path d="M83.561,18.789c.472.135.977.27,1.449.4a9.439,9.439,0,0,1,6.067,13.482,2.938,2.938,0,0,0-.236,2.123c3.3,9.336.034,18.47-8.527,23.458-.236.135-.472.3-.876.539C92.863,63.11,98.694,71.2,98.964,83.4H47.7c.2-12.2,6.067-20.29,17.223-24.5a44.112,44.112,0,0,1-4.954-3.977c-5.292-5.561-6.741-12.133-4.314-19.447a3.535,3.535,0,0,0-.1-3.134,6.49,6.49,0,0,1-.91-3.033c-.169-4.752-.1-9.5-.1-14.358h3.471c.775,2.326,2.191,3.977,5.056,3.91-2.932-7.347-1.955-12.605,2.9-16.346a12.034,12.034,0,0,1,14.56-.067C85.448,6.083,86.426,11.375,83.561,18.789ZM58.35,35.844c-3.033,6.4-.472,14.83,5.629,19.144a16.222,16.222,0,0,0,20.829-1.753c5.224-5.123,5.864-13.414,3.4-17.29a11.693,11.693,0,0,1-7.044,1.719q-7.583-.1-15.167,0C63.271,37.731,60.676,37.529,58.35,35.844ZM57.1,18.857v8.864c0,4.55,2.8,7.347,7.314,7.347H82.583a6.738,6.738,0,0,0,2.46-.4,6.425,6.425,0,0,0,4.415-5.46,6.323,6.323,0,0,0-3.1-6.606,6.145,6.145,0,0,0-6.909-.135c-4.213,2.528-8.527,2.292-12.74-.2a4.8,4.8,0,0,0-2.292-.708A9.033,9.033,0,0,1,57.1,18.857Zm6.741-6.842a9.488,9.488,0,1,0,9.606-9.37A9.494,9.494,0,0,0,63.844,12.015ZM82.853,79.254c-1.079-1.584-2.022-2.932-3.1-4.55-1.651,2.326,0,4.213,0,6.1H96.2a21.635,21.635,0,0,0-6.437-13.987C87.437,71.03,85.212,75.008,82.853,79.254Zm-19.076,0c-2.359-4.213-4.584-8.224-6.943-12.437A21.391,21.391,0,0,0,50.4,80.771H66.979c-.169-1.989,1.685-3.91-.169-6C65.732,76.356,64.822,77.7,63.777,79.254Zm5.8,1.449H77.09a41.36,41.36,0,0,1-.843-4.483,2.514,2.514,0,0,1,.506-1.887c1.685-1.281,1.651-2.528.607-4.247a2.341,2.341,0,0,0-2.46-1.449,20.681,20.681,0,0,1-3.539,0c-2.224-.169-1.921,1.955-2.8,3-.741.91.1,1.449.674,1.921a2.723,2.723,0,0,1,1.079,3.337A28.181,28.181,0,0,0,69.574,80.7Zm-3.2-19.279c2.865,4.617,3.37,4.954,9.37,4.584,2.6-.169,2.932-3.033,4.685-4.449C77.191,60.245,69.843,60.212,66.372,61.425ZM64.08,74.468c1.247-2.393,2.359-4.415,3.438-6.5a.721.721,0,0,0,.034-.64c-1.281-1.618-2.6-3.236-3.876-4.82-1.314.64-2.663,1.247-3.977,1.921a6.7,6.7,0,0,0-.809.708C60.541,68.166,62.193,71.132,64.08,74.468Zm23.761-9.5c-1.449-.843-2.7-1.618-4.044-2.326-.27-.135-.876-.135-1.011.067-1.281,1.483-2.46,3.033-3.674,4.584a.711.711,0,0,0-.034.64c1.079,2.09,2.191,4.146,3.438,6.572C84.437,71.1,86.055,68.166,87.841,64.964Z" transform="translate(-31.623 -0.025)"/>
+										<path id="Path_1729" data-name="Path 1729" d="M0,85.778v-2.6H14.627c-.371-1.281-.674-2.326-1.011-3.606.741-.27,1.416-.539,2.326-.876A65.085,65.085,0,0,0,18.5,86.182a11.46,11.46,0,0,1-.034,10.111,72.974,72.974,0,0,0-2.494,7.381c-.809-.27-1.483-.506-2.359-.775.337-1.146.64-2.258,1.045-3.573H.067V96.664h3.3c3.606,0,7.179-.067,10.785.034,1.18.034,1.55-.472,1.989-1.449a9.431,9.431,0,0,0-.067-8.19c-.4-.91-.809-1.281-1.82-1.247-4.146.067-8.325.034-12.47.034A14.672,14.672,0,0,0,0,85.778Z" transform="translate(0 -52.183)"/>
+										<path id="Path_1730" data-name="Path 1730" d="M191.991,103.775c-1.382-4.112-2.73-8.089-4.011-12.066a1.615,1.615,0,0,1,.034-.977c1.281-3.943,2.629-7.853,3.977-11.931.809.3,1.517.539,2.359.843-.371,1.213-.674,2.326-1.045,3.573h9.2v2.629c-2.663,0-5.393.1-8.123-.034-1.55-.067-2.09.506-2.73,1.887-1.382,2.932-.708,5.527.472,8.19a1.906,1.906,0,0,0,1.517.809c3.809.067,7.651.034,11.459.034h2.8v2.561H193.305c.371,1.314.674,2.427,1.045,3.64C193.541,103.2,192.833,103.471,191.991,103.775Z" transform="translate(-124.583 -52.25)"/>
+										<path id="Path_1731" data-name="Path 1731" d="M16.1,114.627V112.2h2.427v2.427Z" transform="translate(-10.674 -74.393)"/>
+										<path id="Path_1732" data-name="Path 1732" d="M34.627,112.4v2.359H32.2V112.4Z" transform="translate(-21.347 -74.525)"/>
+										<path id="Path_1733" data-name="Path 1733" d="M210.56,112.3v2.393H208.1V112.3Z" transform="translate(-137.962 -74.459)"/>
+										<path id="Path_1734" data-name="Path 1734" d="M224.2,112.2h2.359v2.427H224.2Z" transform="translate(-148.636 -74.393)"/>
+										<path id="Path_1735" data-name="Path 1735" d="M242.527,92.3v2.393H240.1V92.3Z" transform="translate(-159.177 -61.2)"/>
+										<path id="Path_1736" data-name="Path 1736" d="M114.316,21c.607.708,1.045,1.247,1.651,1.955-2.831,2.427-5.629,4.82-8.426,7.213a4.015,4.015,0,0,1-1.618,1.079c-1.213.236-2.393.236-3.1-1.213a30.229,30.229,0,0,0-2.123-3.3c.741-.472,1.382-.91,2.09-1.382.809,1.146,1.584,2.224,2.427,3.438C108.25,26.19,111.216,23.663,114.316,21Z" transform="translate(-66.76 -13.931)"/>
+									</g>
+								</g>
+							</svg>
+							<div class="career-specialization-item__title visible-mobile">
+								<div>Эксплуатация</div>
+								<div class="career-specialization-item__count">Вакансий: 1</div>
+							</div>
+						</div>
+						<div class="career-specialization-item__title visible-desktop">
+							<div>Эксплуатация</div>
+							<div class="career-specialization-item__count">Вакансий: 1</div>
+						</div>
+
+					</div>
+					</div>
+		<div class="career-vacancy" id="career-vacancy-block">
+			<div class="career-vacancy-list">
+				<a href="/jobs" id="career-vacancy-back" title="Вернуться к выбору вакансий" style="padding: 28px 0 14px; display: block;"><img src="/templates/images/arrow-in-cirlce__icon.svg" class="career-detail__arrow">Вернуться к выбору специализаций</a>
+				<p>Найдено <span id="vacancies_found">0</span> вакансии</p>
+				<div id="vacanciesItemsList">
+											<div class="career-vacancy-item "
+						     data-id="585"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/c-s-razrabotchik-upper-junior-middle-585"
+							   class="career-vacancy-item__title">C/С++ разработчик (upper-junior/middle)</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="588"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/c-s-razrabotchik-upper-junior-middle-588"
+							   class="career-vacancy-item__title">C/С++ разработчик (upper-junior/middle)</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="569"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/cto-tehnicheskii-direktor-569"
+							   class="career-vacancy-item__title">CTO - технический директор</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="574"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/cto-tehnicheskii-direktor-574"
+							   class="career-vacancy-item__title">CTO - технический директор</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="566"
+						     data-specialization="23"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/ctazhirovka-v-kommercheskom-departamente-566"
+							   class="career-vacancy-item__title">Cтажировка в коммерческом департаменте</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="567"
+						     data-specialization="23"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/ctazhirovka-v-kommercheskom-departamente-567"
+							   class="career-vacancy-item__title">Cтажировка в коммерческом департаменте</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="513"
+						     data-specialization="26"
+						     data-city="2"
+						     data-project="59">
+
+							<a href="jobs/matematik-programmist-v-komandu-dmp-513"
+							   class="career-vacancy-item__title">Data Scientist (Математик-программист)</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рекламные технологии</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="477"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/frontend-razrabotchik-477"
+							   class="career-vacancy-item__title">Frontend разработчик</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="570"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/frontend-developer-platforma-570"
+							   class="career-vacancy-item__title">frontend-developer  (Платформа)</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="552"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/frontend-developer-552"
+							   class="career-vacancy-item__title">frontend-developer (unity)</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="69"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="59">
+
+							<a href="jobs/frontend-razrabotchik-69"
+							   class="career-vacancy-item__title">Frontend-разработчик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рекламные технологии</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="532"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/python-razrabotchik-532"
+							   class="career-vacancy-item__title">Python разработчик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="50"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="55">
+
+							<a href="jobs/python-razrabotchik-50"
+							   class="career-vacancy-item__title">Python-разработчик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рамблер</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="506"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/ruby-razrabotchik-506"
+							   class="career-vacancy-item__title">Ruby-разработчик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="91"
+						     data-specialization="25"
+						     data-city="2"
+						     data-project="55">
+
+							<a href="jobs/seo-specialist-91"
+							   class="career-vacancy-item__title">SEO-специалист</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рамблер</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="579"
+						     data-specialization="22"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/ux-ui-designer-579"
+							   class="career-vacancy-item__title">UX/UI Designer</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="582"
+						     data-specialization="22"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/ux-ui-designer-582"
+							   class="career-vacancy-item__title">UX/UI Designer</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="526"
+						     data-specialization="25"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/trafik-menedzher-526"
+							   class="career-vacancy-item__title">Аккаунт менеджер направления «Управление трафиком»</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="558"
+						     data-specialization="20"
+						     data-city="2"
+						     data-project="55">
+
+							<a href="jobs/analitik-558"
+							   class="career-vacancy-item__title">Аналитик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рамблер</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="559"
+						     data-specialization="20"
+						     data-city="2"
+						     data-project="55">
+
+							<a href="jobs/analitik-559"
+							   class="career-vacancy-item__title">Аналитик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рамблер</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="382"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/vedushchii-java-razrabotchik-382"
+							   class="career-vacancy-item__title">Ведущий Java-разработчик</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="580"
+						     data-specialization="33"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/vedushchii-rukovoditel-proektov-580"
+							   class="career-vacancy-item__title">Ведущий руководитель проектов</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="583"
+						     data-specialization="33"
+						     data-city="2"
+						     data-project="36">
+
+							<a href="jobs/vedushchii-rukovoditel-proektov-583"
+							   class="career-vacancy-item__title">Ведущий руководитель проектов</a>
+															<div class="career-vacancy-item__project">
+																			<span>Rambler Digital Solutions</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="390"
+						     data-specialization="31"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/inzhener-po-testirovaniyu-390"
+							   class="career-vacancy-item__title">Инженер по тестированию</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="547"
+						     data-specialization="22"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/kommunikacionnyi-dizainer-547"
+							   class="career-vacancy-item__title">Коммуникационный дизайнер.</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="374"
+						     data-specialization="24"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/kreativnyi-kopiraiter-kreator-374"
+							   class="career-vacancy-item__title">Креативный копирайтер/Креатор</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="533"
+						     data-specialization="24"
+						     data-city="2"
+						     data-project="37">
+
+							<a href="jobs/kreator-533"
+							   class="career-vacancy-item__title">Креатор</a>
+															<div class="career-vacancy-item__project">
+																			<span>R.Point</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="550"
+						     data-specialization="25"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-po-dokumentooborotu-550"
+							   class="career-vacancy-item__title">Менеджер по документообороту.</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="586"
+						     data-specialization="23"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-po-operacionnomu-soprovozhdeniyu-586"
+							   class="career-vacancy-item__title">Менеджер по операционному сопровождению</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="589"
+						     data-specialization="23"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-po-operacionnomu-soprovozhdeniyu-589"
+							   class="career-vacancy-item__title">Менеджер по операционному сопровождению</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="572"
+						     data-specialization="23"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-po-prodazham-internet-reklamy-572"
+							   class="career-vacancy-item__title">Менеджер по продажам интернет рекламы</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="577"
+						     data-specialization="23"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-po-prodazham-internet-reklamy-577"
+							   class="career-vacancy-item__title">Менеджер по продажам интернет рекламы</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="584"
+						     data-specialization="33"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-584"
+							   class="career-vacancy-item__title">Менеджер проекта</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="581"
+						     data-specialization="33"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/menedzher-581"
+							   class="career-vacancy-item__title">Менеджер.</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="200"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/razrabotchik-php-200"
+							   class="career-vacancy-item__title">Разработчик PHP</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="553"
+						     data-specialization="30"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/redaktor-reitinga-top-100-553"
+							   class="career-vacancy-item__title">Редактор рейтинга ТОП 100</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="560"
+						     data-specialization="18"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/rekruter-560"
+							   class="career-vacancy-item__title">Рекрутер</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="561"
+						     data-specialization="18"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/rekruter-561"
+							   class="career-vacancy-item__title">Рекрутер</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="543"
+						     data-specialization="25"
+						     data-city="2"
+						     data-project="54">
+
+							<a href="jobs/rukovoditel-napravleniya-poiskovoi-optimizacii-price-ru-543"
+							   class="career-vacancy-item__title">Руководитель направления поисковой оптимизации Price.ru</a>
+															<div class="career-vacancy-item__project">
+																			<span>Прайс</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="587"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/setevoi-inzhener-587"
+							   class="career-vacancy-item__title">Сетевой инженер</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="590"
+						     data-specialization="28"
+						     data-city="2"
+						     data-project="35">
+
+							<a href="jobs/setevoi-inzhener-590"
+							   class="career-vacancy-item__title">Сетевой инженер</a>
+															<div class="career-vacancy-item__project">
+																			<span>RAMBLER&Co</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="105"
+						     data-specialization="35"
+						     data-city="2"
+						     data-project="55">
+
+							<a href="jobs/sistemnyi-administrator-105"
+							   class="career-vacancy-item__title">Системный администратор</a>
+															<div class="career-vacancy-item__project">
+																			<span>Рамблер</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="539"
+						     data-specialization="30"
+						     data-city="2"
+						     data-project="50">
+
+							<a href="jobs/stazher-redakcii-letidor-539"
+							   class="career-vacancy-item__title">Стажер редакции Letidor</a>
+															<div class="career-vacancy-item__project">
+																			<span>Летидор</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+											<div class="career-vacancy-item "
+						     data-id="540"
+						     data-specialization="30"
+						     data-city="2"
+						     data-project="33,38">
+
+							<a href="jobs/stazhery-na-proekty-wmj-ru-i-passion-ru-540"
+							   class="career-vacancy-item__title">Стажеры на проекты wmj.ru и passion.ru</a>
+															<div class="career-vacancy-item__project">
+																			<span>Passion</span>
+																			<span>WMJ</span>
+																	</div>
+																						<div class="career-vacancy-item__city">
+																			<span>Москва</span>
+									
+								</div>
+													</div>
+									</div>
+
+
+			</div>
+			<div class="career-vacancy-filter" style="display: none">
+				<div id="vacancyItemsFilter"></div><!--Место для отрисовки фильтра реакт компонентом-->
+			</div>
+		</div>
+
+	</div>
+    <div class="career-carousel l-container hidden">
+        <div class="career-carousel__text">
+            <div class="career-carousel__text__header">
+                <div class="career-carousel__text__header__title">Там, где комфортно</div>
+            </div>
+            <div class="career-carousel__text__content">В лофте на территории в несколько этажей царят уют и домашняя атмосфера. Собственное кафе, зоны отдыха, кофе-пойнты, большая велопарковка и бесплатные шаттлы до ближайших станций метро — мы постарались, чтобы офис стал максимально комфортным местом для всех нас. И да, никакого дресс-кода.</div>
+        </div>
+
+        <div class="career-carousel__container">
+            <div class="job-carousel">
+                <div class="item"><img src="templates/images/job/carousel/00.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/001.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/03.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/04.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/05.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/06.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/07.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/08.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/09.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/010.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/011.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/012.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/013.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/015.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/016.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/017.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/018.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/019.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/020.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/021.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/022.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/023.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/024.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/025.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/026.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/027.jpg" alt="d"/></div>
+                <div class="item"><img src="templates/images/job/carousel/028.jpg" alt="d"/></div>
+            </div>
+            <div class="career-carousel__counter js-job-carousel">
+                <span class="cur js-job-carousel-cur">1</span>
+                <span class="slash">/</span>
+                <span class="allItems js-all-items"></span>
+            </div>
+        </div>
+    </div>
+	<div class="career-form__wrap">
+    <div name="b-form" class="career-form multipart-ajax-form" style="">
+	 <!-- На странице детальной вакансии скрываем эти поля -->
+		<div class="career-form__block">
+			<div class="career-form__block__title">НЕ НАШЛИ ЧТО ИСКАЛИ?</div><!-- Title формы-->
+			<div class="career-form__block__content js-career-form-teaser">Если вы не нашли интересующую вакансию, не отчаивайтесь &mdash;&nbsp;заполните
+				эту форму и отправьте нам. Мы обязательно рассмотрим ваше резюме.
+			</div><!-- Title формы-->
+		</div>
+
+		<div class="career-form__block"><!-- Форма - текст в блоке справа -->
+			<div class="career-form__block__small-title">ДЕЛАЕМ ЧТО ЛЮБИМ</div>
+			<div class="career-form__block__content">Мы верим, что в мире есть масса возможностей заниматься тем, что
+				по-настоящему нравится. И точно знаем, что это можно делать у нас, в хорошей компании.
+			</div>
+			<div class="career-form__block__small-title">ТАМ, ГДЕ ЭТО ЦЕНЯТ</div>
+			<div class="career-form__block__content">Работа в Rambler&Co &mdash; это возможность реализовать себя в большой
+				группе
+				компаний и быть напрямую причастным к созданию уникальных продуктов на российском медиарынке.
+			</div>
+		</div>
+	
+	    <div class="career-form__block">
+		            <form class="form-ajax" enctype="multipart/form-data" method="post"><!-- Форма на странице карьеры-->
+                <div class="career-form__input-box">
+                    <div class="career-form__input-block"><!--Имя-->
+                        <input class="career-form__input "
+                               data-name="First name"
+                               name="name"
+                               placeholder="Имя"
+                               type="text">
+                    </div>
+
+                    <div class="career-form__input-block"><!--Фамилия-->
+                        <input class="career-form__input "
+                               data-name="Lastname"
+                               name="lastname"
+                               placeholder="Фамилия"
+                               type="text">
+                    </div>
+                     <!-- На странице детальной вакансии скрываем эти поля -->
+                                                    <div class="career-form__input-block" id="specializations-mask"><!--Специализация с выпадашкой-->
+                                <input class="career-form__input"
+                                       type="text"
+                                       placeholder="Специализация"
+                                       name="specialization-fake"
+                                       data-name="Specialization"
+                                       readonly/><!--Заблокировано меняется только из выпадашки-->
+                                <input type="hidden" name="specialization_id" required>
+                                <div class="career-form__input__mask" id="specializations"></div>
+                                <div class="career-form__input__list hidden" id="specializations-list">
+                                    <!-- Список активных специализаций -->
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="18">HR</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="20">Аналитика</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="22">Дизайн</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="23">Коммерция</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="24">Креатив</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="25">Маркетинг</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="26">Математик - программист</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="28">Программирование</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="30">Редакция</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="31">Тестирование</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="33">Управление проектами</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="35">Эксплуатация</div>
+                                                                    </div>
+                            </div>
+                                                                <div class="career-form__input-block"><!-- Email -->
+                        <input class="career-form__input "
+                               type="email"
+                               placeholder="Электронная почта"
+                               name="mail"
+                               data-name="E-mail address">
+                    </div>
+                    <div class="career-form__input-block"><!-- Телефон -->
+                        <input class="career-form__input"
+                               type="text"
+                               placeholder="Телефон"
+                               name="phone"
+                               data-name="phone">
+                    </div>
+                     <!-- На странице детальной вакансии скрываем эти поля -->
+                                                    <div class="career-form__input-block" id="cities-mask"><!-- Города с выпадашкой -->
+                                <input class="career-form__input"
+                                       type="text"
+                                       placeholder="Город"
+                                       name="city"
+                                       data-name="city"
+                                       readonly/>
+                                <div class="career-form__input__mask" id="cities"></div>
+                                <div class="career-form__input__list hidden" id="cities-list">
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="Воронеж">Воронеж</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="Москва">Москва</div>
+                                                                            <div class="career-form__input__list-item"
+                                             data-value="Санкт-Петербург">Санкт-Петербург</div>
+                                                                    </div>
+                            </div>
+                                                                <div class="career-form__input-block detail-page-modifier" id="resume-link"><!-- Текстовое поле Резюме -->
+                      <input class="career-form__input"
+                               type="text"
+                               placeholder="Резюме"
+                               name="resume_link"
+                               maxlength="250"
+                               data-name="Resume-link">
+                      <label class="career-form__resume-file js-resume-label" for="resume-file" title="Загрузить резюме">
+                          <input type="file" name="resume_file" class="js-resume_input" id="resume-file"/>
+                      </label>
+
+                      <div class="b-job__file js-resume_container">
+                        <span class="career-form__input-filename resume-file__name js-resume-name"></span>
+                        <a href="javascript: void(0);" class="b-job__file__remove icon-close js-resume_remove"></a>
+                      </div>
+                    </div>
+                    <div class="career-form__input-block detail-page-modifier" id="portfolio-link">
+                        <input class="career-form__input"
+                               type="text"
+                               name="portfolio_link"
+                               placeholder="Портфолио"
+                               data-name="Portfolio_link">
+                        <label class="career-form__portfolio-file js-portfolio-label" for="portfolio-file" title="Загрузить портфолио">
+                            <input type="file" name="portfolio_file" class="js-portfolio_input" id="portfolio-file"/>
+                        </label>
+
+                      <div class="b-job__file js-portfolio_container">
+                        <span class="career-form__input-filename portfolio-file__name js-portfolio-name"></span>
+                        <span class="b-job__file__txt js-portfolio_txt"></span>
+                        <a href="javascript: void(0);" class="b-job__file__remove icon-close js-portfolio_remove"></a>
+                      </div>
+                    </div>
+
+                    <div class="career-form__input-line" style="overflow: hidden">
+                    <textarea class="career-form__input-textarea" name="description" id="comments"
+                              placeholder="О себе"></textarea>
+                        <div class="career-form__input-hiddendiv"></div>
+                    </div>
+                    <div class="career-form__input-line agreement-line">
+                        <label for="agreement">
+                            <input type="checkbox" id="agreement" required>
+                            <div class="career-form__checkbox-image">
+                            </div>
+                        </label>
+                        <a href="#agreetext" id="agreementText" class="agreement-text">Согласие на обработку персональных данных</a>
+                        <input type="submit"
+                               onclick="_gaq.push(['_trackEvent', 'Экран Карьера', 'Отправить резюме', 'Верхняя плашка, шаг2']);yaCounter36704010.reachGoal('send_cv');"
+                               value="Отправить">
+                    </div>
+                </div>
+
+
+                <div class="b-form__btn-group" style="display: none">
+                    <div class="b-form__btn-group__item btn btn_transparent">
+                        <span>Загрузить резюме</span>
+                        <input type="file" name="resume_file" class="js-resume_input"/>
+                    </div>
+                    <div class="b-form__btn-group__item btn btn_transparent"></div>
+
+                    <input type="hidden" name="selected-projects">
+
+                    <span class="b-form__send-btn">
+                    <button class="btn btn_gray _send"
+                            onclick="_gaq.push(['_trackEvent', 'Экран Карьера', 'Отправить резюме', 'Верхняя плашка, шаг2']);yaCounter36704010.reachGoal('send_cv');">Отправить</button>
+                </span>
+
+
+
+                </div>
+
+                
+                <div class="message">
+                    Спасибо. Мы свяжемся с вами в ближайшее время.                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+<div style="display: none;">
+	<div id="agreetext"
+	">
+	<h2 style="color: #000; padding-bottom: 24px">Согласие на обработку персональных данных</h2>
+	<p>Нажимая кнопку «Отправить» я&nbsp;предоставляю свое согласие ООО «Рамблер&nbsp;БС» на&nbsp;обработку моих
+		персональных данных, включенных в&nbsp;направляемую анкету, резюме и/или портфолио, в&nbsp;том числе на&nbsp;передачу
+		моих персональных данных компаниям группы Rambler&amp;Co в&nbsp;целях принятия решения о&nbsp;возможности замещения
+		вакантной должности в&nbsp;компании группы Rambler&amp;Co, а&nbsp;также включения указанных данных в&nbsp;кадровый
+		резерв.</p>
+	<p>Предусматривается смешанная обработка моих персональных данных&nbsp;— как без использования средств автоматизации,
+		так и&nbsp;автоматизированная обработка с&nbsp;передачей полученной информации с&nbsp;использованием сети
+		Интернет.</p>
+	<p>Согласие предоставлено на&nbsp;период до&nbsp;принятия решения о&nbsp;приеме на&nbsp;работу, а&nbsp;также на&nbsp;период
+		хранения данных в&nbsp;кадровом резерве.</p>
+	<p>Я&nbsp;осведомлен, что могу отозвать согласие на&nbsp;обработку персональных данных, указанных в&nbsp;настоящем
+		согласии, если указанные сведения не&nbsp;являются необходимыми для выполнения мною трудовых обязанностей в&nbsp;случае
+		заключения со&nbsp;мной трудового договора, подав заявление в&nbsp;произвольной форме.</p>
+</div>
+</div>
+
+	
+
+<!-- Общий футер -->
+<footer class="b-common-footer">
+	<ul class="b-common-footer__social">
+		<li class="b-common-footer__social__item">
+			<a class="b-common-footer__social__item__link" href="mailto:hello@rambler-co.ru" onclick="_gaq.push(['_trackEvent','Главный экран', 'Бургер', 'mailus']);yaCounter36704010.reachGoal('mailus');">
+				<i class="icon-letter"></i>
+				Contact us			</a>
+		</li>
+		<li class="b-common-footer__social__item" style="display: none;">
+			<a class="b-common-footer__social__item__link" href="">
+				<i class="icon-like"></i>
+				Like this			</a>
+		</li>
+		<li class="b-common-footer__social__item icon-linkedin">
+			<a class="b-common-footer__social__item__link" href="https://www.linkedin.com/company/rambler?trk=top_nav_home" target="_blank" onclick="_gaq.push(['_trackEvent','Главный экран', 'Бургер', 'linkedin']);yaCounter36704010.reachGoal('linkedin');">
+				<i class="icon-linkedin"><img src="templates/images/link.png" alt="Linkedin"></i>
+				Follow on linkedin			</a>
+		</li>
+		<li class="b-common-footer__social__item">
+			<a class="b-common-footer__social__item__link" href="https://www.facebook.com/profile.php?id=537211753006316&fref=ts" target="_blank" onclick="_gaq.push(['_trackEvent','Главный экран', 'Бургер', 'fb']);yaCounter36704010.reachGoal('fb');">
+				<i class="icon-facebook"></i>
+				Follow on facebook			</a>
+		</li>
+		<li class="b-common-footer__social__item">
+			<a class="b-common-footer__social__item__link" href="https://twitter.com/ramblerandco" target="_blank" onclick="_gaq.push(['_trackEvent','Главный экран', 'Бургер', 'twitter']);yaCounter36704010.reachGoal('twitter');">
+				<i class="icon-twitter"></i>
+				Follow on Twitter			</a>
+		</li>
+		<li class="b-common-footer__social__item">
+			<a class="b-common-footer__social__item__link" href="https://vk.com/ramblerandco" target="_blank" onclick="_gaq.push(['_trackEvent','Главный экран', 'Бургер', 'vk']);yaCounter36704010.reachGoal('vk');">
+				<i class="icon-vk" style="font-size: 1.6rem;"></i>
+				Follow on Vkontakte			</a>
+		</li>
+		<li class="b-common-footer__social__item">
+			<a class="b-common-footer__social__item__link" href="https://instagram.com/ramblerandco" target="_blank" onclick="_gaq.push(['_trackEvent','Главный экран', 'Бургер', 'instagram']);yaCounter36704010.reachGoal('instagram');">
+				<i class="icon-instagram"></i>
+				Follow on Instagram			</a>
+		</li>
+	</ul>
+
+	<div class="b-common-footer__copy">
+		<span class="b-common-footer__text">
+			Copyright © Rambler&Co		</span>
+	</div>
+
+</footer></div>
+<script>
+var careerJSON = {};
+var cities = [{"id":"1","name":"Воронеж"},{"id":"2","name":"Москва"},{"id":"3","name":"Санкт-Петербург"}];
+var projects = [{"id":"30","name":"GetRussia"},{"id":"31","name":"InRussia"},{"id":"32","name":"Livejournal"},{"id":"33","name":"Passion"},{"id":"34","name":"Quto"},{"id":"37","name":"R.Point"},{"id":"36","name":"Rambler Digital Solutions"},{"id":"35","name":"RAMBLER&Co"},{"id":"38","name":"WMJ"},{"id":"39","name":"Авторамблер"},{"id":"40","name":"Афиша"},{"id":"41","name":"Афиша-Daily"},{"id":"42","name":"Афиша-Еда"},{"id":"43","name":"Афиша-Рестораны"},{"id":"44","name":"Видеостудия"},{"id":"45","name":"Газета"},{"id":"46","name":"Индекс 20"},{"id":"47","name":"Индикатор"},{"id":"48","name":"Информационное агентство RNS"},{"id":"49","name":"Лента"},{"id":"50","name":"Летидор"},{"id":"51","name":"Мослента"},{"id":"52","name":"Мотор"},{"id":"53","name":"Поток"},{"id":"54","name":"Прайс"},{"id":"55","name":"Рамблер"},{"id":"56","name":"Рамблер\/Видео"},{"id":"57","name":"Рамблер\/Касса"},{"id":"58","name":"Рамблер\/Путешествия"},{"id":"59","name":"Рекламные технологии"},{"id":"60","name":"Секрет Фирмы"},{"id":"61","name":"Ферра"},{"id":"62","name":"Чемпионат"}];
+var specializations = [{"id":"18","name":"HR","crmid":18,"GROUP_COUNT":"2"},{"id":"20","name":"Аналитика","crmid":5,"GROUP_COUNT":"2"},{"id":"22","name":"Дизайн","crmid":4,"GROUP_COUNT":"3"},{"id":"23","name":"Коммерция","crmid":11,"GROUP_COUNT":"6"},{"id":"24","name":"Креатив","crmid":17,"GROUP_COUNT":"2"},{"id":"25","name":"Маркетинг","crmid":3,"GROUP_COUNT":"4"},{"id":"26","name":"Математик - программист","crmid":34,"GROUP_COUNT":"1"},{"id":"28","name":"Программирование","crmid":1,"GROUP_COUNT":"15"},{"id":"30","name":"Редакция","crmid":6,"GROUP_COUNT":"3"},{"id":"31","name":"Тестирование","crmid":9,"GROUP_COUNT":"1"},{"id":"33","name":"Управление проектами","crmid":7,"GROUP_COUNT":"4"},{"id":"35","name":"Эксплуатация","crmid":2,"GROUP_COUNT":"1"}];
+var currentSpecializations = [{"id":"18","crmid":18,"name":"HR","count":"2"},{"id":"20","crmid":5,"name":"Аналитика","count":"2"},{"id":"22","crmid":4,"name":"Дизайн","count":"3"},{"id":"23","crmid":11,"name":"Коммерция","count":"6"},{"id":"24","crmid":17,"name":"Креатив","count":"2"},{"id":"25","crmid":3,"name":"Маркетинг","count":"4"},{"id":"26","crmid":34,"name":"Математик - программист","count":"1"},{"id":"28","crmid":1,"name":"Программирование","count":"15"},{"id":"30","crmid":6,"name":"Редакция","count":"3"},{"id":"31","crmid":9,"name":"Тестирование","count":"1"},{"id":"33","crmid":7,"name":"Управление проектами","count":"4"},{"id":"35","crmid":2,"name":"Эксплуатация","count":"1"}];
+var vacanciesBaseJSON = [{"id":"585","projects":"35","cities":"2","specialization":"28","name":"C\/С++ разработчик (upper-junior\/middle)","url":"jobs\/c-s-razrabotchik-upper-junior-middle-585","crmid":644},{"id":"588","projects":"35","cities":"2","specialization":"28","name":"C\/С++ разработчик (upper-junior\/middle)","url":"jobs\/c-s-razrabotchik-upper-junior-middle-588","crmid":644},{"id":"569","projects":"36","cities":"2","specialization":"28","name":"CTO - технический директор","url":"jobs\/cto-tehnicheskii-direktor-569","crmid":631},{"id":"574","projects":"36","cities":"2","specialization":"28","name":"CTO - технический директор","url":"jobs\/cto-tehnicheskii-direktor-574","crmid":631},{"id":"566","projects":"35","cities":"2","specialization":"23","name":"Cтажировка в коммерческом департаменте","url":"jobs\/ctazhirovka-v-kommercheskom-departamente-566","crmid":620},{"id":"567","projects":"35","cities":"2","specialization":"23","name":"Cтажировка в коммерческом департаменте","url":"jobs\/ctazhirovka-v-kommercheskom-departamente-567","crmid":620},{"id":"513","projects":"59","cities":"2","specialization":"26","name":"Data Scientist (Математик-программист)","url":"jobs\/matematik-programmist-v-komandu-dmp-513","crmid":229},{"id":"477","projects":"35","cities":"2","specialization":"28","name":"Frontend разработчик","url":"jobs\/frontend-razrabotchik-477","crmid":394},{"id":"570","projects":"35","cities":"2","specialization":"28","name":"frontend-developer  (Платформа)","url":"jobs\/frontend-developer-platforma-570","crmid":633},{"id":"552","projects":"35","cities":"2","specialization":"28","name":"frontend-developer (unity)","url":"jobs\/frontend-developer-552","crmid":606},{"id":"69","projects":"59","cities":"2","specialization":"28","name":"Frontend-разработчик","url":"jobs\/frontend-razrabotchik-69","crmid":3},{"id":"532","projects":"36","cities":"2","specialization":"28","name":"Python разработчик","url":"jobs\/python-razrabotchik-532","crmid":514},{"id":"50","projects":"55","cities":"2","specialization":"28","name":"Python-разработчик","url":"jobs\/python-razrabotchik-50","crmid":6},{"id":"506","projects":"36","cities":"2","specialization":"28","name":"Ruby-разработчик","url":"jobs\/ruby-razrabotchik-506","crmid":261},{"id":"91","projects":"55","cities":"2","specialization":"25","name":"SEO-специалист","url":"jobs\/seo-specialist-91","crmid":19},{"id":"579","projects":"35","cities":"2","specialization":"22","name":"UX\/UI Designer","url":"jobs\/ux-ui-designer-579","crmid":642},{"id":"582","projects":"35","cities":"2","specialization":"22","name":"UX\/UI Designer","url":"jobs\/ux-ui-designer-582","crmid":642},{"id":"526","projects":"35","cities":"2","specialization":"25","name":"Аккаунт менеджер направления «Управление трафиком»","url":"jobs\/trafik-menedzher-526","crmid":460},{"id":"558","projects":"55","cities":"2","specialization":"20","name":"Аналитик","url":"jobs\/analitik-558","crmid":621},{"id":"559","projects":"55","cities":"2","specialization":"20","name":"Аналитик","url":"jobs\/analitik-559","crmid":621},{"id":"382","projects":"36","cities":"2","specialization":"28","name":"Ведущий Java-разработчик","url":"jobs\/vedushchii-java-razrabotchik-382","crmid":277},{"id":"580","projects":"36","cities":"2","specialization":"33","name":"Ведущий руководитель проектов","url":"jobs\/vedushchii-rukovoditel-proektov-580","crmid":641},{"id":"583","projects":"36","cities":"2","specialization":"33","name":"Ведущий руководитель проектов","url":"jobs\/vedushchii-rukovoditel-proektov-583","crmid":641},{"id":"390","projects":"35","cities":"2","specialization":"31","name":"Инженер по тестированию","url":"jobs\/inzhener-po-testirovaniyu-390","crmid":2},{"id":"547","projects":"35","cities":"2","specialization":"22","name":"Коммуникационный дизайнер.","url":"jobs\/kommunikacionnyi-dizainer-547","crmid":600},{"id":"374","projects":"35","cities":"2","specialization":"24","name":"Креативный копирайтер\/Креатор","url":"jobs\/kreativnyi-kopiraiter-kreator-374","crmid":150},{"id":"533","projects":"37","cities":"2","specialization":"24","name":"Креатор","url":"jobs\/kreator-533","crmid":516},{"id":"550","projects":"35","cities":"2","specialization":"25","name":"Менеджер по документообороту.","url":"jobs\/menedzher-po-dokumentooborotu-550","crmid":604},{"id":"586","projects":"35","cities":"2","specialization":"23","name":"Менеджер по операционному сопровождению","url":"jobs\/menedzher-po-operacionnomu-soprovozhdeniyu-586","crmid":441},{"id":"589","projects":"35","cities":"2","specialization":"23","name":"Менеджер по операционному сопровождению","url":"jobs\/menedzher-po-operacionnomu-soprovozhdeniyu-589","crmid":441},{"id":"572","projects":"35","cities":"2","specialization":"23","name":"Менеджер по продажам интернет рекламы","url":"jobs\/menedzher-po-prodazham-internet-reklamy-572","crmid":517},{"id":"577","projects":"35","cities":"2","specialization":"23","name":"Менеджер по продажам интернет рекламы","url":"jobs\/menedzher-po-prodazham-internet-reklamy-577","crmid":517},{"id":"584","projects":"35","cities":"2","specialization":"33","name":"Менеджер проекта","url":"jobs\/menedzher-584","crmid":640},{"id":"581","projects":"35","cities":"2","specialization":"33","name":"Менеджер.","url":"jobs\/menedzher-581","crmid":640},{"id":"200","projects":"35","cities":"2","specialization":"28","name":"Разработчик PHP","url":"jobs\/razrabotchik-php-200","crmid":29},{"id":"553","projects":"35","cities":"2","specialization":"30","name":"Редактор рейтинга ТОП 100","url":"jobs\/redaktor-reitinga-top-100-553","crmid":608},{"id":"560","projects":"35","cities":"2","specialization":"18","name":"Рекрутер","url":"jobs\/rekruter-560","crmid":623},{"id":"561","projects":"35","cities":"2","specialization":"18","name":"Рекрутер","url":"jobs\/rekruter-561","crmid":623},{"id":"543","projects":"54","cities":"2","specialization":"25","name":"Руководитель направления поисковой оптимизации Price.ru","url":"jobs\/rukovoditel-napravleniya-poiskovoi-optimizacii-price-ru-543","crmid":596},{"id":"587","projects":"35","cities":"2","specialization":"28","name":"Сетевой инженер","url":"jobs\/setevoi-inzhener-587","crmid":645},{"id":"590","projects":"35","cities":"2","specialization":"28","name":"Сетевой инженер","url":"jobs\/setevoi-inzhener-590","crmid":645},{"id":"105","projects":"55","cities":"2","specialization":"35","name":"Системный администратор","url":"jobs\/sistemnyi-administrator-105","crmid":31},{"id":"539","projects":"50","cities":"2","specialization":"30","name":"Стажер редакции Letidor","url":"jobs\/stazher-redakcii-letidor-539","crmid":452},{"id":"540","projects":"33,38","cities":"2","specialization":"30","name":"Стажеры на проекты wmj.ru и passion.ru","url":"jobs\/stazhery-na-proekty-wmj-ru-i-passion-ru-540","crmid":458}];
+
+
+
+//console.log('vacanciesBaseJSON: ', ObjectFromOjectsCompiler(vacanciesBaseJSON));
+localStorage.setItem('vacanciesBaseJSON', JSON.stringify(ObjectFromOjectsCompiler(vacanciesBaseJSON)));
+
+//console.info('filterCities: ', ObjectCompiler(cities));
+localStorage.setItem('filterCities', JSON.stringify(ObjectCompiler(cities)));
+
+//console.info('filterProjects: ', ObjectCompiler(projects));
+localStorage.setItem('filterProjects', JSON.stringify(ObjectCompiler(projects)));
+
+//console.info('filterSpecializations: ', ObjectCompiler(specializations));
+localStorage.setItem('filterSpecializations', JSON.stringify(ObjectCompiler(specializations)));
+
+//console.info('currentSpecializations: ', ObjectFromOjectsCompiler(currentSpecializations));
+localStorage.setItem('currentSpecializations', JSON.stringify(ObjectFromOjectsCompiler(currentSpecializations)));
+
+careerJSON = Object.assign(ObjectCompiler(cities), ObjectCompiler(projects), ObjectCompiler(specializations));
+
+function ObjectCompiler(dataArray) {
+	var compiledJSON = {};
+	for( var i = 0, max = dataArray.length; i < max; i++ ) {
+		compiledJSON[dataArray[i]['id']] = dataArray[i]['name'];
+	}
+	return compiledJSON;
+}
+
+localStorage.setItem('careerJSON', JSON.stringify(careerJSON));
+
+function ObjectFromOjectsCompiler(dataArray) {
+	var compiledJSON = {};
+	for( var i = 0, max = dataArray.length; i < max; i++ ) {
+		compiledJSON[i] = dataArray[i];
+	}
+	return compiledJSON;
+}
+
+</script>
+    <div class="b-overlay js-overlay"></div>
+    <div class="js-popup b-popup">
+      <div class="b-popup__inner"></div>
+    </div>
+    <script src="templates/build/base.min.js?2018090913626"></script>    <!-- Yandex.Metrika counter-->
+    <script type="text/javascript">
+      (function (d, w, c){
+        (w[c] = w[c] || []).push(function (){
+          try {
+            w.yaCounter36704010 = new Ya.Metrika({
+              id: 36704010,
+              clickmap: true,
+              trackLinks: true,
+              accurateTrackBounce: true,
+              webvisor: true
+            });
+          } catch (e) {
+          }
+        });
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function (){
+                  n.parentNode.insertBefore(s, n);
+                };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+        if (w.opera == "[object Opera]") {
+          d.addEventListener("DOMContentLoaded", f, false);
+        } else {
+          f();
+        }
+      })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript>
+      <div><img src="https://mc.yandex.ru/watch/36704010" style="position:absolute; left:-9999px;" alt=""></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter-->
+  <script type="text/javascript" src="/templates/assets/js/styles.c162f7a18ec214d2fff1.js"></script><script type="text/javascript" src="/templates/assets/js/script.8dbd7a40c9eaa622c6ff.js"></script><script type="text/javascript" src="/templates/assets/js/lessStyles.b65d925ab887150737d9.js"></script><script type="text/javascript" src="/templates/assets/js/concatCss.1de65dcd6f6335bcca22.js"></script><script type="text/javascript" src="/templates/assets/js/application.6b1ca9d0366ecfe56e89.js"></script></body>
+</html>
