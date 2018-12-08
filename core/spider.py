@@ -7,6 +7,7 @@ from threading import Thread, RLock, get_ident
 import time
 import json
 import re
+import os
 from core.boiler import BoilerWithShingle
 from tqdm import tqdm
 import ZODB
@@ -173,7 +174,7 @@ class Crawler(Thread):
                 self.runner.lock.release()
                 self.logger.info("Trying to write HTML...")
                 try:
-                  with open("{0}/{1}".format(self.runner.output_dir, ids), "wb") as f:
+                  with open(os.path.join(self.runner.output_dir, str(ids)), "wb") as f:
                     f.write(html.encode())
                     self.logger.info("Success!")
                 except BaseException as e:
@@ -213,7 +214,7 @@ class CrawlerRunner:
     output_dir = 'html/'
     txt_dir = 'root/'
 
-    max_pages = 1000000
+    max_pages = 10000
 
     def __init__(self):
         root.visited["visited"] = set()
