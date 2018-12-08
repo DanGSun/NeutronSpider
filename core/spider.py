@@ -212,7 +212,7 @@ class CrawlerRunner:
     output_dir = 'html/'
     txt_dir = 'root/'
 
-    max_pages = 100
+    max_pages = 1000000
 
     def __init__(self):
         root.visited["visited"] = set()
