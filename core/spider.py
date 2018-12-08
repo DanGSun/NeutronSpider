@@ -9,6 +9,22 @@ import json
 import re
 from core.boiler import BoilerWithShingle
 from tqdm import tqdm
+import ZODB
+import transaction
+
+import BTrees.OOBTree
+import ZODB.FileStorage
+
+storage = ZODB.FileStorage.FileStorage('mydata.fs')
+db = ZODB.DB(storage)
+connection = db.open()
+root = connection.root
+
+root.bags = BTrees.OOBTree.BTree()
+root.visited = BTrees.OOBTree.BTree()
+root.index = BTrees.OOBTree.BTree()
+
+transaction.commit()
 
 
 class Crawler(Thread):
@@ -34,8 +50,8 @@ class Crawler(Thread):
         self.runner = runner
         self.init_url = init_url
         self.anchor = anchor
-
-        self.bag = [self.init_url]
+        self.bid = str(get_ident())
+        root.bags["ubag-"+self.bid] = [self.init_url]
         self.disallow = set()
         self.running = True
 
@@ -50,7 +66,7 @@ class Crawler(Thread):
 
         # add handler to logger object
         self.logger.addHandler(fh)
-
+        transaction.commit()
     def run(self): #Crawler Start
         try:
             self.go(self.max_depth)
@@ -119,32 +135,36 @@ class Crawler(Thread):
 
     def go(self, current_depth):
         if current_depth <= 0:
-            return self.runner.index
-        for i, url in enumerate(self.bag.copy()):
+            return root.index["ind"]
+        for i, url in enumerate(root.bags["ubag-"+self.bid].copy()):
             if not self.running:
                 raise Exception('Stop')
-            if url in self.runner.visited and len(self.bag) != 1:
+            if url in root.visited["visited"] and len(root.bags["ubag-"+self.bid]) != 1:
                 continue
             for dis in self.disallow:
                 if re.findall(dis, url): # If url is permitted, passing it!
                     continue
             else:
-                self.bag.pop(i)
+                root.bags["ubag-"+self.bid].pop(i) #Deleting items from DB
                 status, html, children_urls = self.fetch(url)
                 if not status:
                     continue
-                self.bag += children_urls # TODO: FIX F*CKING BAG OVERFLOW! We should store it in database.
+                root.bags["ubag-"+self.bid] += children_urls
+                """
+                Commit to DB should be there! --^
+                """
 
+                transaction.commit()
                 self.runner.lock.acquire()
                 try:
                     ids = str(self.runner.id)
-                    self.runner.index[self.runner.id] = url
-                    self.runner.visited.add(url)
+                    root.index["ind"][self.runner.id] = url
+                    root.visited["visited"].add(url)
                     self.runner.id += 1
 
-                    if not self.runner.id % self.save_freq and self.runner.id: #AUTO-SAVE ENGINE
+                    if not self.runner.id % self.save_freq and self.runner.id:  # AUTO-SAVE ENGINE
                         with open("index.json", "w") as ind:
-                            json.dump(self.runner.index, ind, indent=2)
+                            json.dump(root.index["ind"], ind, indent=2)
                         with open('last_ind.tmp', 'w') as last:
                             last.write(str(self.runner.id - 1))
                 except Exception as ex:
@@ -162,10 +182,10 @@ class Crawler(Thread):
                     self.runner.pbar.write("{0}\t{1}".format(ids, url))
 
                 code = self.runner.boiler_engine.handle(self.runner.output_dir, self.runner.txt_dir, ids) 
-                # By some reason, boilerpipe don't working --^
+                # *SOLVED*: By some reason, boilerpipe don't working --^
                 if not code:
                     try:
-                        self.runner.index.pop(ids)
+                        root.index["ind"].pop(ids)
                     except IndexError as e:
                         self.runner.pbar.write(str(e))
                 else:
@@ -176,9 +196,9 @@ class Crawler(Thread):
                     self.runner.stop()
 
                 time.sleep(self.delay)
-        if self.bag:
+        if root.bags["ubag-"+self.bid]:
             self.go(current_depth - 1)
-        return self.runner.index
+        return root.index["ind"]
 
 
 class CrawlerRunner:
@@ -195,8 +215,8 @@ class CrawlerRunner:
     max_pages = 100
 
     def __init__(self):
-        self.visited = set()
-        self.index = {}
+        root.visited["visited"] = set()
+        root.index["ind"] = {}
         self.id = 0
         self.lock = RLock()
         self.boiler_engine = BoilerWithShingle()
@@ -204,7 +224,7 @@ class CrawlerRunner:
         self.spider_queue = []
 
         self.active_crawlers = [Crawler(self, 'https://lenta.ru/')]
-
+        transaction.commit()
     def add(self, crawler):
         if len(self.active_crawlers) >= self.max_crawlers:
             self.spider_queue.append(crawler)
@@ -233,8 +253,8 @@ class CrawlerRunner:
 
     def get_info(self): # TODO
         return {
-            "visited_links" : list(self.visited)
+            "visited_links": list(root.visited["visited"])
                }
 
     def find_duplicates(self):
-        self.boiler_engine.find(self.index)
+        self.boiler_engine.find(root.index["ind"])
