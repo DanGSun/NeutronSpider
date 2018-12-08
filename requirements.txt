@@ -6,3 +6,4 @@ tqdm
 requests
 pymorphy2
 ZODB #Database for URL Distribution
+ZEO  #+ Server to it

@@ -10,13 +10,14 @@ import re
 from core.boiler import BoilerWithShingle
 from tqdm import tqdm
 import ZODB
+import ZODB.config
 import transaction
 
 import BTrees.OOBTree
 import ZODB.FileStorage
 
-storage = ZODB.FileStorage.FileStorage('mydata.fs')
-db = ZODB.DB(storage)
+db = ZODB.config.databaseFromURL('zeo.xml')
+
 connection = db.open()
 root = connection.root
 
