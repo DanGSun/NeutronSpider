@@ -39,7 +39,7 @@ class Crawler(Thread):
     Main Crawler Class
 
     """
-    save_freq = 15 # AutoSave interval
+    save_freq = 15  # AutoSave interval
 
     debug = True
     delay = 0.05
