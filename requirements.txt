@@ -5,5 +5,6 @@ lxml
 tqdm
 requests
 pymorphy2
+selectolax
 ZODB #Database for URL Distribution
 ZEO  #+ Server to it

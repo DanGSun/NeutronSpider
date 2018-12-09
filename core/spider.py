@@ -9,6 +9,7 @@ import json
 import re
 import os
 from core.boiler import BoilerWithShingle
+from core import zeosrv
 from tqdm import tqdm
 import ZODB
 import ZODB.config
@@ -74,6 +75,7 @@ class Crawler(Thread):
         # add handler to logger object
         self.logger.addHandler(fh)
         transaction.commit()
+
     def run(self): #Crawler Start
         try:
             self.go(self.max_depth)
@@ -140,6 +142,7 @@ class Crawler(Thread):
             return False, '', list()
         return True, response.text, children_urls # Note1: status, html-document, urls. TODO: Status to INT
 
+
     def go(self, current_depth):
         if current_depth <= 0:
             return root.index["ind"]
@@ -178,18 +181,22 @@ class Crawler(Thread):
                     self.runner.pbar.write(ex)
                 self.runner.lock.release()
                 self.logger.info("Trying to write HTML...")
+
+                "---------------------------------------------------------------------------------------------------"
                 try:
-                  with open(os.path.join(self.runner.output_dir, str(ids)), "wb") as f:
-                    f.write(html.encode())
-                    self.logger.info("Success!")
+                    with open(os.path.join(self.runner.output_dir, str(ids)), "wb") as f:
+                        f.write(html.encode())
+                        self.logger.info("Success!")
                 except BaseException as e:
                     self.logger.error("Failure( Logs: {}".format(e))
                     raise Exception("Fucking Exception")
                 if self.debug:
                     self.runner.pbar.write("{0}\t{1}".format(ids, url))
 
-                code = self.runner.boiler_engine.handle(self.runner.output_dir, self.runner.txt_dir, ids) 
-                # *SOLVED*: By some reason, boilerpipe don't working --^
+                code = self.runner.boiler_engine.handle(self.runner.output_dir, self.runner.txt_dir, ids)
+                "----------------------------------------------------------------------------------------------------"
+
+                # **NOT* SOLVED*: By some reason, boilerpipe don't working --^
                 if not code:
                     try:
                         root.index["ind"].pop(ids)
@@ -232,6 +239,7 @@ class CrawlerRunner:
 
         self.active_crawlers = [Crawler(self, 'https://lenta.ru/')]
         transaction.commit()
+
     def add(self, crawler):
         if len(self.active_crawlers) >= self.max_crawlers:
             self.spider_queue.append(crawler)

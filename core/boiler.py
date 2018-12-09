@@ -1,5 +1,4 @@
 import os
-from bs4 import BeautifulSoup
 import re
 from tqdm import tqdm
 from itertools import combinations
@@ -7,6 +6,8 @@ from math import factorial
 import json
 from core.words import extract_words, split
 import logging
+from selectolax.parser import HTMLParser
+from bs4 import BeautifulSoup
 from core.pyboiler import boil
 boil_py = False
 
@@ -22,13 +23,36 @@ fh.setFormatter(formatter)
 # add handler to logger object
 logger.addHandler(fh)
 
-def parse_text(contents_string):
+
+def bs_parse_text(contents_string):
     new_lines = re.compile(r'[\r\n]\s+')
     bs = BeautifulSoup(contents_string, "lxml")
     for script in bs(["script", "style"]):
         script.extract()
     txt = bs.getText('\n')
     return new_lines.sub('\n', txt)
+
+
+def sl_parse_text(html):
+    tree = HTMLParser(html)
+
+    if tree.body is None:
+        return None
+
+    for tag in tree.css('script'):
+        tag.decompose()
+    for tag in tree.css('style'):
+        tag.decompose()
+
+    text = tree.body.text(separator='\n')
+    return text
+
+
+def parse_text(contents_string, selectolax=True):
+    if selectolax:
+        sl_parse_text(contents_string)
+    else:
+        bs_parse_text(contents_string)
 
 
 def shingle(text, n):
@@ -53,6 +77,7 @@ class BoilerWithShingle:
         self.deleted = []
 
     def handle(self, inp, out, index):
+
             new_name = os.path.join(out, index + '.txt')
             logger.debug("CMD: java -jar core/boiler.jar {0} > {1}".format(os.path.join(inp, index),
                                                                                 new_name))
@@ -61,13 +86,17 @@ class BoilerWithShingle:
             logger.debug("CODE: {}".format(code))
             with open(new_name, 'r', encoding='utf-8') as inp:
                 text = inp.read()
-                normal_text = extract_words(split(text))
+                normal_text = extract_words(split(text))  # Extract there TODO: Extract replacement to selectolax
                 with open(os.path.join('normal_text/', '{0}.txt'.format(index)), 'w', encoding='utf-8') as f:
                     f.write(' '.join(normal_text))
             if code:
                 return False
 
             return self.add(index, out)
+
+    def n_handle(self, text, outdir, index):
+        new_name = os.path.join(outdir, index + '.txt')
+        return self.add(index, outdir)
 
     def add(self, index, out='root/'):
         new_name = os.path.join(out, index + '.txt')
