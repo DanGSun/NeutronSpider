@@ -28,6 +28,11 @@ root.index = BTrees.OOBTree.BTree()
 
 transaction.commit()
 
+dirs_to_create = ["root", "normal_text", "html", "logs", "logs/spiders"]'
+for i in dirs_to_create:
+    if not os.path.exists(i):
+        os.makedirs(i)
+
 
 class Crawler(Thread):
     """
