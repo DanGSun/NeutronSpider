@@ -50,9 +50,10 @@ def sl_parse_text(html):
 
 def parse_text(contents_string, selectolax=True):
     if selectolax:
-        sl_parse_text(contents_string)
+        r = sl_parse_text(contents_string)
     else:
-        bs_parse_text(contents_string)
+        r = bs_parse_text(contents_string)
+    return r
 
 
 def shingle(text, n):
@@ -96,6 +97,13 @@ class BoilerWithShingle:
 
     def n_handle(self, text, outdir, index):
         new_name = os.path.join(outdir, index + '.txt')
+        txt = parse_text(text)
+        with open(new_name, "w", encoding="utf-8") as f:
+            f.write(txt)
+
+        normal_text = extract_words(split(txt))
+        with open(os.path.join('normal_text/', '{0}.txt'.format(index)), 'w', encoding='utf-8') as f:
+            f.write(' '.join(normal_text))
         return self.add(index, outdir)
 
     def add(self, index, out='root/'):
